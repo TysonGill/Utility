@@ -2,7 +2,7 @@
 
 So after perhaps 200+ casual projects and 100+ major commercial projects, this homebrew has been my secret weapon since the early 1990's. It has enabled me to do very reliable projects quickly with a high degree of reuse and therefore a small footprint of code needing testing. It contains a wide away of methods. Some are things I use all the time in every project, and others are things I do rarely enough that I would forget how to do them and rather not have to relearn.
 
-As just one example, the DataQuery object makes database programming trivially simple with extremely little code:
+As just one example, the DataQuery object makes fast and robust database programming trivially simple with extremely little code:
 
 Dim dq as clsDataQuery = New clsDataQuery(ConnectionString) ' do this once at the start of your program to initialize
 
