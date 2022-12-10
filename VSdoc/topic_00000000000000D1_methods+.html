@@ -1,0 +1,2063 @@
+<html DIR="LTR" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:MSHelp="http://msdn.microsoft.com/mshelp">
+  <head>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; CHARSET=windows-1252" />
+    <META NAME="save" CONTENT="history" />
+    <title>clsDatabase Methods</title>
+    <xml>
+      <MSHelp:TOCTitle Title="clsDatabase Methods" />
+      <MSHelp:RLTitle Title="clsDatabase Methods" />
+      <MSHelp:Keyword Index="K" Term="clsDatabase Class, Methods" />
+      <MSHelp:Keyword Index="A" Term="Methods.T:Utility.clsDatabase" />
+      <MSHelp:Attr Name="AssetID" Value="Methods.T:Utility.clsDatabase" />
+      <MSHelp:Attr Name="HelpPriority" Value="1" />
+      <MSHelp:Attr Name="DocSet" Value="WindowsForms" />
+      <MSHelp:Attr Name="TopicType" Value="kbSyntax" />
+      <MSHelp:Attr Name="DocSet" Value="NETFramework" />
+      <MSHelp:Attr Name="DocSet" Value="NETFrameworkXpr" />
+      <MSHelp:Attr Name="DocSet" Value="ExpressLibVS" />
+      <MSHelp:Attr Name="Technology" Value="ManagedCode" />
+      <MSHelp:Attr Name="TechnologyVers" Value="netframework20" />
+      <MSHelp:Attr Name="DevLang" Value="VJ#" />
+      <MSHelp:Attr Name="TargetOS" Value="Windows" />
+      <MSHelp:Attr Name="TopicVersion" Value="02.00.00000.10000" />
+      <MSHelp:Attr Name="TargetOS" Value="Windows" />
+      <MSHelp:Attr Name="DevLang" Value="CSharp" />
+      <MSHelp:Attr Name="DevLang" Value="VB" />
+      <MSHelp:Attr Name="DevLang" Value="C++" />
+      <MSHelp:Attr Name="DevLang" Value="jsharp" />
+      <MSHelp:Attr Name="DevLang" Value="JScript" />
+      <MSHelp:Attr Name="DocSet" Value="NetCompactFramework" />
+      <MSHelp:Attr Name="Technology" Value="kbNetFramewk" />
+      <MSHelp:Attr Name="Technology" Value="kbNetCompactFramewk" />
+      <MSHelp:Attr Name="Locale" Value="en-us" />
+    </xml>
+
+		<link rel="stylesheet" type="text/css" href="ms-help://MS.VSCC.v80/dv_vscccommon/local/Classic.css" DISABLED="true">
+		</link>
+		<link rel="stylesheet" type="text/css" href="ms-help://Hx/HxRuntime/HxLink.css">
+		</link>
+
+		<link rel="stylesheet" type="text/css" href="msdn2/msdn2.css"></link>
+		<script src="msdn2/msdn2.js"></script>
+		<script src="SyntaxHighlighter/scripts/shCore_helixoft.js"></script>
+		<script src="SyntaxHighlighter/scripts/shBrushVb.js"></script>
+		<script src="SyntaxHighlighter/scripts/shBrushCSharp.js"></script>
+		<script src="SyntaxHighlighter/scripts/shBrushCpp.js"></script>
+		<script src="SyntaxHighlighter/scripts/shBrushJScript.js"></script>
+		<link href="SyntaxHighlighter/styles/shCore.css" rel="stylesheet" type="text/css" />
+		<link href="SyntaxHighlighter/styles/shThemeVS.css" rel="stylesheet" type="text/css" />
+		<script type="text/javascript">
+			SyntaxHighlighter.all()
+		</script>				
+
+		<link rel="stylesheet" type="text/css" href="ms-help://MS.VSCC.v90/dv_vscccommon/styles/presentation.css">
+		</link>
+		<link rel="stylesheet" type="text/css" href="ms-help://Hx/HxRuntime/HxLink.css">
+		</link>
+		<script src="ms-help://MS.VSCC.v90/dv_vscccommon/scripts/EventUtilities.js">
+		</script>
+		<script src="ms-help://MS.VSCC.v90/dv_vscccommon/scripts/SplitScreen.js">
+		</script>
+		<script src="ms-help://MS.VSCC.v90/dv_vscccommon/scripts/Dropdown.js">
+		</script>
+    <script src="ms-help://MS.VSCC.v90/dv_vscccommon/scripts/script_loc.js"> </script>
+    <script src="ms-help://MS.VSCC.v90/dv_vscccommon/scripts/script_manifold.js"> </script>
+    <script src="ms-help://MS.VSCC.v90/dv_vscccommon/scripts/CheckboxMenu.js"> </script>
+    <script src="ms-help://MS.VSCC.v90/dv_vscccommon/scripts/CommonUtilities.js"> </script>
+  </head>
+
+  <body style="direction: ltr;">
+    <input type="hidden" id="userDataCache" class="userDataStyle"></input>
+    <input type="hidden" id="hiddenScrollOffset"></input>
+    <img id="dropDownImage" style="display:none; height:0; width:0;" alt="DropDown image" src="msdn9/dropdown.gif"></img>
+    <img id="dropDownHoverImage" style="display:none; height:0; width:0;" alt="DropDownHover image" src="msdn9/dropdownHover.gif"></img>
+    <img id="collapseImage" style="display:none; height:0; width:0;" alt="Collapse image" src="msdn2/collapse_all.gif"></img>
+    <img id="expandImage" style="display:none; height:0; width:0;" alt="Expand image" src="msdn2/expand_all.gif"></img>
+    <img id="collapseAllImage" style="display:none; height:0; width:0;" alt="CollapseAll image" src="msdn2/collall.gif"></img>
+    <img id="expandAllImage" style="display:none; height:0; width:0;" alt="ExpandAll image" src="msdn2/expall.gif"></img>
+    <img id="copyImage" style="display:none; height:0; width:0;" alt="Copy image" src="msdn2/copycode.gif"></img>
+    <img id="copyHoverImage" style="display:none; height:0; width:0;" alt="CopyHover image" src="msdn2/copycodeHighlight.gif"></img>
+    
+    <div id="header">
+      <table id="bottomTable" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>
+            <span onclick="ExpandCollapseAll(toggleAllImage)" style="cursor:default;" onkeypress="ExpandCollapseAll_CheckKey(toggleAllImage, event)" tabindex="0">
+              <img ID="toggleAllImage" class="toggleAll" src="msdn2/collall.gif" />
+              <label id="collapseAllLabel" for="toggleAllImage" style="display: none;">Collapse All</label>
+              <label id="expandAllLabel" for="toggleAllImage" style="display: none;">Expand All</label>
+            </span>
+            <span>    </span>
+            <span id="devlangsDropdown" class="filter" tabindex="0">
+              <img id="devlangsDropdownImage" src="msdn9/dropdown.gif" />
+              <label id="devlangsMenuAllLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code: All </nobr></label><label id="devlangsMenuMultipleLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code: Multiple </nobr></label><label id="devlangsMenuVisualBasicLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code: Visual Basic </nobr></label><label id="devlangsMenuCSharpLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code: C# </nobr></label><label id="devlangsMenuManagedCPlusPlusLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code: Visual C++ </nobr></label><label id="devlangsMenuJSharpLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code: J# </nobr></label><label id="devlangsMenuJScriptLabel" for="devlangsDropdownImage" style="display: none;"><nobr>Code: JScript </nobr></label>
+            </span>
+            <span>    </span>
+            <span id="memberOptionsDropdown" class="filter" tabindex="0" style="display: none;">
+              <img id="memberOptionsDropdownImage" src="msdn9/dropdown.gif" />
+              <label id="memberOptionsMenuAllLabel" for="memberOptionsDropdownImage" style="display: none;"><nobr>Members Options: Show All </nobr></label>
+              <label id="memberOptionsMenuMultipleLabel" for="memberOptionsDropdownImage" style="display: none;"><nobr>Members Options: Filtered </nobr></label>
+              <label id="memberOptionsMenuProtectedLabel" for="memberOptionsDropdownImage" style="display: none;"><nobr>Members Options: Filtered </nobr></label>
+              <label id="memberOptionsMenuInheritedLabel" for="memberOptionsDropdownImage" style="display: none;"><nobr>Members Options: Filtered </nobr></label>
+            </span>
+            <span>    </span>
+            <span id="memberFrameworksDropdown" class="filter" tabindex="0" style="display: none;">
+              <img id="memberFrameworksDropdownImage" src="msdn9/dropdown.gif" /> 
+              <label id="memberFrameworksMenuAllLabel" for="memberFrameworksDropdownImage" style="display: none;"><nobr>Frameworks: Show All </nobr></label>
+              <label id="memberFrameworksMenuMultipleLabel" for="memberFrameworksDropdownImage" style="display: none;"><nobr>Frameworks: Multiple </nobr></label>
+              <label id="memberFrameworksMenunetfwLabel" for="memberFrameworksDropdownImage" style="display: none;"><nobr>Frameworks: .NET Framework Only </nobr></label>
+              <label id="memberFrameworksMenunetcfwLabel" for="memberFrameworksDropdownImage" style="display: none;"><nobr>Frameworks: .NET Compact Framework Only </nobr></label>
+              <label id="memberFrameworksMenuxnafwLabel" for="memberFrameworksDropdownImage" style="display: none;"><nobr>Frameworks: XNA Framework Only </nobr></label></span>
+          </td>
+        </tr>
+      </table>
+      <div id="devlangsMenu">
+        <input id="VisualBasicCheckbox" type="checkbox" data="VisualBasic,vb,'persist'" value="on" onClick="SetLanguageEx(this)" />
+        <label class="checkboxLabel" for="VisualBasicCheckbox">Visual Basic</label>
+        <br />
+
+        <input id="CSharpCheckbox" type="checkbox" data="CSharp,cs,'persist'" value="on" onClick="SetLanguageEx(this)" />
+        <label class="checkboxLabel" for="CSharpCheckbox">C#</label>
+        <br />
+
+        <input id="ManagedCPlusPlusCheckbox" type="checkbox" data="ManagedCPlusPlus,cpp,'persist'" value="on" onClick="SetLanguageEx(this)" />
+        <label class="checkboxLabel" for="ManagedCPlusPlusCheckbox">Visual C++</label>
+        <br />
+
+        <input id="JScriptCheckbox" type="checkbox" data="JScript,cs,'persist'" value="on" onClick="SetLanguageEx(this)" />
+        <label class="checkboxLabel" for="JScriptCheckbox">JScript</label>
+        <br />
+        
+      </div>
+      <div id="memberOptionsMenu">
+        <input id="ProtectedCheckbox" type="checkbox" data="Protected" value="on" onClick="SetMemberOptions(this, 'vis')" />
+        <label class="checkboxLabel" for="ProtectedCheckbox">Include Protected Members</label>
+        <br />
+        <input id="InheritedCheckbox" type="checkbox" data="Inherited" value="on" onClick="SetMemberOptions(this, 'decl')" />
+        <label class="checkboxLabel" for="InheritedCheckbox">Include Inherited Members</label>
+        <br />
+      </div>
+      <div id="memberFrameworksMenu">
+        <input id="netfwCheckbox" type="checkbox" data="netfw,'persist'" value="on" onClick="SetMemberFrameworks(this)" />
+        <label class="checkboxLabel" for="netfwCheckbox">Include .NET Framework Members</label>
+        <br />
+        <input id="netcfwCheckbox" type="checkbox" data="netcfw,'persist'" value="on" onClick="SetMemberFrameworks(this)" />
+        <label class="checkboxLabel" for="netcfwCheckbox">Include .NET Compact Framework Members</label>
+        <br />
+        <input id="xnafwCheckbox" type="checkbox" data="xnafw,'persist'" value="on" onClick="SetMemberFrameworks(this)" />
+        <label class="checkboxLabel" for="xnafwCheckbox">Include XNA Framework Members</label>
+        <br />
+      </div>
+      <table id="topTable" cellpadding="0" cellspacing="0">
+        <tr id="headerTableRow1">
+          <td align="left">
+            <span id="runningHeaderText">Utility Reference</span>
+          </td>
+        </tr>
+        <tr id="headerTableRow2">
+          <td align="left">
+            <span id="nsrTitle">clsDatabase Methods</span>
+          </td>
+        </tr>
+        <tr id="headerTableRow3">
+          <td align="left">
+            <a href="topic_00000000000000D1.html">clsDatabase Class</a>
+            &nbsp;<a href="#seeAlsoToggle" onclick="OpenSection(seeAlsoToggle)">See Also</a>
+            </td>
+        </tr>
+      </table>
+      <table id="gradientTable">
+        <tr>
+          <td class="nsrBottom" background="msdn9/gradient.gif" />
+        </tr>
+      </table>
+    </div>
+
+    <div id="mainSection">
+      <div id="mainBody">
+        <div id="allHistory" class="saveHistory" onsave="saveAll()" onload="loadAll()">
+        </div>
+        <p />
+
+
+<!-- Public -->
+
+
+<h1 class="heading">
+  <span onclick="ExpandCollapse(PublicMethodsToggle)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(PublicMethodsToggle)" tabindex="0">
+    <img id="PublicMethodsToggle" onload="OnLoadImage(event)" class="toggle" name="toggleSwitch" alt="Expand image" src="msdn2/expand_all.gif">
+    </img>
+    Public Methods
+  </span>
+</h1>
+<div id="PublicMethodsSection" class="section" name="collapseableSection" style="display: none;">
+  <table width="100%" class="memberListTable" cellspacing="2" cellpadding="5">
+    <col width="10%" />
+    <col width="30%" />
+    <col width="60%" />
+    <tr>
+      <th style="border-right-style: none;">&nbsp;</th>
+      <th align="left" style="border-left-style: none; border-right-style: none;">
+        Name
+      </th>
+      <th align="left" style="border-left-style: none;">
+        Description
+      </th>
+    </tr>
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000D5.html">BinaryRead</a>
+
+
+  </td>
+  <td>
+
+
+Reads binary data from a database field.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000D3.html">BinaryWrite</a>
+
+
+  </td>
+  <td>
+
+
+Writes binary data to a database field.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000D6.html">DataTableExport</a>
+
+
+  </td>
+  <td>
+
+
+Writes a DataTable into a CSV file.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+name="inheritedMember"
+
+
+notSupportedOn="netcf"
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    
+  </td>
+  <td>
+
+    <a href="ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?keyword=&quot;Overload:System.Object.Equals&quot;;?index=&quot;!DefaultAssociativeIndex&quot;">Equals</a>
+
+    
+
+  </td>
+  <td>
+(Overloaded)
+
+Determines whether the specified <a href="ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?keyword=&quot;T:System.Object&quot;;?index=&quot;!DefaultAssociativeIndex&quot;">Object</a> is equal to the current <a href="ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?keyword=&quot;T:System.Object&quot;;?index=&quot;!DefaultAssociativeIndex&quot;">Object</a>.
+
+(inherited from <a href="ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?keyword=&quot;T:System.Object&quot;;?index=&quot;!DefaultAssociativeIndex&quot;">Object</a>).
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000E0.html">ErrorTableCheck</a>
+
+
+  </td>
+  <td>
+
+
+Checks if a datatable contains error information.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000DF.html">ErrorTableCreate</a>
+
+
+  </td>
+  <td>
+
+
+Creates an ErrorTable to return error information.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000FD.html">EventLogSave</a>
+
+
+  </td>
+  <td>
+
+
+Save event to database.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000D9.html">ExcelImport</a>
+
+
+  </td>
+  <td>
+
+
+Reads an Excel worksheet into a DataTable.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000F1.html">ExecuteAction</a>
+
+
+  </td>
+  <td>
+
+
+Performs an action query.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000F3.html">ExecuteSpODBC</a>
+
+
+  </td>
+  <td>
+
+
+Executes a stored procedure with optional parameters against an ODBC datasource.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000F2.html">ExecuteSpSQL</a>
+
+
+  </td>
+  <td>
+
+
+Executes a stored procedure with optional parameters against SQL Server.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000E6.html">GetConnectionReport</a>
+
+
+  </td>
+  <td>
+
+
+Returns a report of all connection strings.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000E4.html">GetCurrentDatabase</a>
+
+
+  </td>
+  <td>
+
+
+Get default database for current connection string.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000E5.html">GetCurrentProvider</a>
+
+
+  </td>
+  <td>
+
+
+Get default provider for current connection string.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000EA.html">GetDataSet</a>
+
+
+  </td>
+  <td>
+
+
+Return a dataset.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000EB.html">GetDataTable</a>
+
+
+  </td>
+  <td>
+
+
+Return a datatable.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000E9.html">GetDictionary</a>
+
+
+  </td>
+  <td>
+
+
+Return a Dictionary.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000F9.html">GetDistinct</a>
+
+
+  </td>
+  <td>
+
+
+Return collection of distinct members of a datatable column.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000F8.html">GetDistinctString</a>
+
+
+  </td>
+  <td>
+
+
+Return a delimited string for all unique values in a column.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000DA.html">GetExcelSchema</a>
+
+
+  </td>
+  <td>
+
+
+Reads the schema of an Excel spreadsheet into a DataTable.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+name="inheritedMember"
+
+
+notSupportedOn="netcf"
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    
+  </td>
+  <td>
+
+    <a href="ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?keyword=&quot;M:System.Object.GetHashCode&quot;;?index=&quot;!DefaultAssociativeIndex&quot;">GetHashCode</a>
+
+
+  </td>
+  <td>
+
+Serves as a hash function for a particular type.
+
+(inherited from <a href="ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?keyword=&quot;T:System.Object&quot;;?index=&quot;!DefaultAssociativeIndex&quot;">Object</a>).
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000F7.html">GetMaxFieldLength</a>
+
+
+  </td>
+  <td>
+
+
+Returns the maximum number of characters in a field.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000E8.html">GetODBCDataReader</a>
+
+
+  </td>
+  <td>
+
+
+Return an ODBC datareader.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000F0.html">GetRecordCount</a>
+
+
+  </td>
+  <td>
+
+
+Safely returns a datatable record count.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000F4.html">GetRowCopy</a>
+
+
+  </td>
+  <td>
+
+
+Return an editable copy of a record in a datatable.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000F5.html">GetRowValue</a>
+
+
+  </td>
+  <td>
+
+
+Search a datatable for a row and return a column value.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000E7.html">GetSQLDataReader</a>
+
+
+  </td>
+  <td>
+
+
+Return a SQL datareader.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000F6.html">GetSchema</a>
+
+
+  </td>
+  <td>
+
+
+Return a datatable containing columns schema information for a table or database.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000DD.html">GetSysParam</a>
+
+
+  </td>
+  <td>
+
+
+Returns a single named system parameter value.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000DE.html">GetSysParamTable</a>
+
+
+  </td>
+  <td>
+
+
+Returns a named system parameter table.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+name="inheritedMember"
+
+
+notSupportedOn="netcf"
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    
+  </td>
+  <td>
+
+    <a href="ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?keyword=&quot;M:System.Object.GetType&quot;;?index=&quot;!DefaultAssociativeIndex&quot;">GetType</a>
+
+
+  </td>
+  <td>
+
+Gets the <a href="ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?keyword=&quot;T:System.Type&quot;;?index=&quot;!DefaultAssociativeIndex&quot;">Type</a> of the current instance.
+
+(inherited from <a href="ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?keyword=&quot;T:System.Object&quot;;?index=&quot;!DefaultAssociativeIndex&quot;">Object</a>).
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000ED.html">GetValue</a>
+
+
+  </td>
+  <td>
+
+
+Return a single value from a database query.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+    <A HREF="topic_00000000000000EE_overloads+.html">GetValueCmd</A>
+    
+
+  </td>
+  <td>
+(Overloaded)
+
+
+Return a single value from a SQL database query.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000EC.html">GetValueText</a>
+
+
+  </td>
+  <td>
+
+
+Return a single text value from a database query.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000D4.html">ImageRead</a>
+
+
+  </td>
+  <td>
+
+
+Reads an image from a database field.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000D2.html">ImageWrite</a>
+
+
+  </td>
+  <td>
+
+
+Writes an image to a database field.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000E2.html">IsODBCConnectionValid</a>
+
+
+  </td>
+  <td>
+
+
+Verify that a valid ODBC connection string has been passed.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000E1.html">IsSQLConnectionValid</a>
+
+
+  </td>
+  <td>
+
+
+Verify that a valid SQL Server connection string has been passed.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000FC.html">LogQueryEnd</a>
+
+
+  </td>
+  <td>
+
+
+Update the query log with the elapsed query time.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000FB.html">LogQueryStart</a>
+
+
+  </td>
+  <td>
+
+
+Log the query to the database.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000E3.html">PromptForConnection</a>
+
+
+  </td>
+  <td>
+
+
+Prompts for a database connection string.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000FA.html">SortDataTable</a>
+
+
+  </td>
+  <td>
+
+
+Sorts a datatable.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000D7.html">TextImport</a>
+
+
+  </td>
+  <td>
+
+
+Reads a text file into a DataTable.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000D8.html">TextImportDelimited</a>
+
+
+  </td>
+  <td>
+
+
+Reads a delimited text file into a DataTable.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+name="inheritedMember"
+
+
+notSupportedOn="netcf"
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    
+  </td>
+  <td>
+
+    <a href="ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?keyword=&quot;M:System.Object.ToString&quot;;?index=&quot;!DefaultAssociativeIndex&quot;">ToString</a>
+
+
+  </td>
+  <td>
+
+Returns a <a href="ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?keyword=&quot;T:System.String&quot;;?index=&quot;!DefaultAssociativeIndex&quot;">String</a> that represents the current <a href="ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?keyword=&quot;T:System.Object&quot;;?index=&quot;!DefaultAssociativeIndex&quot;">Object</a>.
+
+(inherited from <a href="ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?keyword=&quot;T:System.Object&quot;;?index=&quot;!DefaultAssociativeIndex&quot;">Object</a>).
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000DB.html">XmlFromDatatable</a>
+
+
+  </td>
+  <td>
+
+
+Returns an XML string of a dataset.
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+<tr valign="top"
+
+
+>
+  <td class="imageCell">
+    <img alt="Public method" src="msdn2/pubmethod.gif"></img>
+
+    <img alt="Supported by the .NET Compact Framework." src="msdn2/CFW.gif"></img>
+    
+  </td>
+  <td>
+
+    <a href="topic_00000000000000DC.html">XmlToDatatable</a>
+
+
+  </td>
+  <td>
+
+
+Converts an XML string to a dataset.
+
+
+	</td>
+</tr>
+
+
+
+
+
+  </table>
+  <a href="#mainBody">
+    Top
+  </a>
+</div>
+
+<!-- Public End-->
+
+<!-- Protected -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Protected End-->
+
+<!-- Private and rest -->
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+<!-- Private and rest End-->
+
+
+
+<!-- Public -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Public End-->
+
+
+
+
+<h1 class="heading">
+	<span onclick="ExpandCollapse(seeAlsoToggle)" style="cursor:default;" onkeypress="ExpandCollapse_CheckKey(seeAlsoToggle)" tabindex="0">
+		<img id="seeAlsoToggle" onload="OnLoadImage(event)" class="toggle" name="toggleSwitch" alt="Expand image" src="msdn2/expand_all.gif">
+		</img>
+		See Also
+	</span></h1>
+<div id="seeAlsoSection" class="section" name="collapseableSection" style="display: none;">
+	<div>
+		<h4 class="subHeading">
+			Reference</h4>
+		<A HREF="topic_00000000000000D1.html">clsDatabase Class</A><br />
+
+		
+
+	</div>
+</div>
+			</div>
+      <div id="footer">
+        <div class="footerLine">
+          <img alt="Footer image" width="100%" height="3px" src="msdn2/footer.gif">
+          </img>
+        </div>
+          <font color="#FF0000">Generated with unregistered version of <a href="http://www.helixoft.com/vsdocman/overview.html">VSdocman</a></font>&nbsp;<br>Your own footer text will only be shown in registered version.
+      </div>
+    </div>
+  </body>
+</html>
+

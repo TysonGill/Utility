@@ -1,0 +1,3357 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="Utility" Title="Utility Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.AppendIfNeeded" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000124.html" LinkGroup="Utility">AppendIfNeeded Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.AppendText" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000001D.html" LinkGroup="Utility">AppendText Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarEditingControl.ApplyCellStyleToEditingControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000A7.html" LinkGroup="Utility">ApplyCellStyleToEditingControl Method {Utility.SmartGrid.CalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownEditingControl.ApplyCellStyleToEditingControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000BC.html" LinkGroup="Utility">ApplyCellStyleToEditingControl Method {Utility.SmartGrid.NumericUpDownEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ApplyXSLT" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000012D.html" LinkGroup="Utility">ApplyXSLT Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.AspectListener" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000024.html" LinkGroup="Utility">AspectListener Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.AspectListener.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000026.html" LinkGroup="Utility">AspectListener Constructor {Utility.clsNetworking.AspectListener}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.AspectListener.AspectReceived" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000025.html" LinkGroup="Utility">AspectReceived Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.AssemblePhone" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000112.html" LinkGroup="Utility">AssemblePhone Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsSQLParser.AssignValues" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000048.html" LinkGroup="Utility">AssignValues Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.BinaryRead" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000D5.html" LinkGroup="Utility">BinaryRead Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.BinaryWrite" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000D3.html" LinkGroup="Utility">BinaryWrite Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMapping.CalcDistance" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000053.html" LinkGroup="Utility">CalcDistance Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000009E.html" LinkGroup="Utility">CalendarCell Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarCell.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000009F.html" LinkGroup="Utility">CalendarCell Constructor {Utility.SmartGrid.CalendarCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000009B.html" LinkGroup="Utility">CalendarColumn Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarColumn.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000009C.html" LinkGroup="Utility">CalendarColumn Constructor {Utility.SmartGrid.CalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarEditingControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000A4.html" LinkGroup="Utility">CalendarEditingControl Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarEditingControl.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000A5.html" LinkGroup="Utility">CalendarEditingControl Constructor {Utility.SmartGrid.CalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.CaptureForm" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000001F.html" LinkGroup="Utility">CaptureForm Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.CaptureScreen" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000001E.html" LinkGroup="Utility">CaptureScreen Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CellButtonClicked" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000077.html" LinkGroup="Utility">CellButtonClicked Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarColumn.CellTemplate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000009D.html" LinkGroup="Utility">CellTemplate Property {Utility.SmartGrid.CalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownColumn.CellTemplate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000B2.html" LinkGroup="Utility">CellTemplate Property {Utility.SmartGrid.NumericUpDownColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.CheckRemoteLibrary" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000033.html" LinkGroup="Utility">CheckRemoteLibrary Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsEligibility.ClearRequest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000006F.html" LinkGroup="Utility">ClearRequest Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.ColumnProperties" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000007A.html" LinkGroup="Utility">ColumnProperties Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.DBTransaction.Commit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000100.html" LinkGroup="Utility">Commit Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.Compress" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000129.html" LinkGroup="Utility">Compress Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.ConfirmChange" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000071.html" LinkGroup="Utility">ConfirmChange Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.DBTransaction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000FE.html" LinkGroup="Utility">DBTransaction Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.DBTransaction.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000FF.html" LinkGroup="Utility">DBTransaction Constructor {Utility.clsDatabase.DBTransaction}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.DataTableExport" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000D6.html" LinkGroup="Utility">DataTableExport Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.Decompress" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000012A.html" LinkGroup="Utility">Decompress Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.Encrypter.Decrypt" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000131.html" LinkGroup="Utility">Decrypt Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarCell.DefaultNewRowValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000A1.html" LinkGroup="Utility">DefaultNewRowValue Property {Utility.SmartGrid.CalendarCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownCell.DefaultNewRowValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000B7.html" LinkGroup="Utility">DefaultNewRowValue Property {Utility.SmartGrid.NumericUpDownCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.DeleteNeeded" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000074.html" LinkGroup="Utility">DeleteNeeded Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarCell.EditType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000A3.html" LinkGroup="Utility">EditType Property {Utility.SmartGrid.CalendarCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownCell.EditType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000B8.html" LinkGroup="Utility">EditType Property {Utility.SmartGrid.NumericUpDownCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarEditingControl.EditingControlCursor" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000AC.html" LinkGroup="Utility">EditingControlCursor Property {Utility.SmartGrid.CalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownEditingControl.EditingControlCursor" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000C0.html" LinkGroup="Utility">EditingControlCursor Property {Utility.SmartGrid.NumericUpDownEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarEditingControl.EditingControlDataGridView" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000AB.html" LinkGroup="Utility">EditingControlDataGridView Property {Utility.SmartGrid.CalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownEditingControl.EditingControlDataGridView" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000C4.html" LinkGroup="Utility">EditingControlDataGridView Property {Utility.SmartGrid.NumericUpDownEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarEditingControl.EditingControlFormattedValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000AE.html" LinkGroup="Utility">EditingControlFormattedValue Property {Utility.SmartGrid.CalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownEditingControl.EditingControlFormattedValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000BF.html" LinkGroup="Utility">EditingControlFormattedValue Property {Utility.SmartGrid.NumericUpDownEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarEditingControl.EditingControlRowIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000AF.html" LinkGroup="Utility">EditingControlRowIndex Property {Utility.SmartGrid.CalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownEditingControl.EditingControlRowIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000C2.html" LinkGroup="Utility">EditingControlRowIndex Property {Utility.SmartGrid.NumericUpDownEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarEditingControl.EditingControlValueChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000AD.html" LinkGroup="Utility">EditingControlValueChanged Property {Utility.SmartGrid.CalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownEditingControl.EditingControlValueChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000C1.html" LinkGroup="Utility">EditingControlValueChanged Property {Utility.SmartGrid.NumericUpDownEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarEditingControl.EditingControlWantsInputKey" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000A8.html" LinkGroup="Utility">EditingControlWantsInputKey Method {Utility.SmartGrid.CalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownEditingControl.EditingControlWantsInputKey" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000BD.html" LinkGroup="Utility">EditingControlWantsInputKey Method {Utility.SmartGrid.NumericUpDownEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.EmailValidate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000023.html" LinkGroup="Utility">EmailValidate Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFolderWatcher.Enabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000D0.html" LinkGroup="Utility">Enabled Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.Encrypter.Encrypt" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000130.html" LinkGroup="Utility">Encrypt Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.Encrypter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000012E.html" LinkGroup="Utility">Encrypter Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.Encrypter.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000012F.html" LinkGroup="Utility">Encrypter Constructor {Utility.clsFormatting.Encrypter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.ErrorTableCheck" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000E0.html" LinkGroup="Utility">ErrorTableCheck Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.ErrorTableCreate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000DF.html" LinkGroup="Utility">ErrorTableCreate Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.EventLogSave" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000FD.html" LinkGroup="Utility">EventLogSave Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.ExcelImport" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000D9.html" LinkGroup="Utility">ExcelImport Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.Execute" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000013A.html" LinkGroup="Utility">Execute Method {Utility.clsDataQuery}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.DBTransaction.Execute" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000102.html" LinkGroup="Utility">Execute Method {Utility.clsDatabase.DBTransaction}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.ExecuteAction" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000F1.html" LinkGroup="Utility">ExecuteAction Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.ExecuteAsync" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000144.html" LinkGroup="Utility">ExecuteAsync Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.ExecuteSpODBC" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000F3.html" LinkGroup="Utility">ExecuteSpODBC Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.ExecuteSpSQL" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000F2.html" LinkGroup="Utility">ExecuteSpSQL Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.FTPGet" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000002E.html" LinkGroup="Utility">FTPGet Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.FTPPut" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000002F.html" LinkGroup="Utility">FTPPut Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFolderWatcher.FileChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000CC.html" LinkGroup="Utility">FileChanged Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.Filter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000008A.html" LinkGroup="Utility">Filter Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.Finished" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000143.html" LinkGroup="Utility">Finished Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFolderWatcher.Folder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000CF.html" LinkGroup="Utility">Folder Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.FormatMemberInfoGrid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000057.html" LinkGroup="Utility">FormatMemberInfoGrid Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.FromMhsDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000110.html" LinkGroup="Utility">FromMhsDate Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.FromXML" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000010F.html" LinkGroup="Utility">FromXML Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.GetActiveDirectoryGroups" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000016.html" LinkGroup="Utility">GetActiveDirectoryGroups Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.GetAge" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000105.html" LinkGroup="Utility">GetAge Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.GetAttribute" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000012B.html" LinkGroup="Utility">GetAttribute Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMapping.GetBorough" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000054.html" LinkGroup="Utility">GetBorough Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsBusiness.GetCCMSStatus" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000000C.html" LinkGroup="Utility">GetCCMSStatus Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.GetCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000091.html" LinkGroup="Utility">GetCell Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsBusiness.GetClaimTypes" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000008.html" LinkGroup="Utility">GetClaimTypes Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetConnectionReport" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000E6.html" LinkGroup="Utility">GetConnectionReport Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.GetControlString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000059.html" LinkGroup="Utility">GetControlString Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.GetCurrentDatabase" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000138.html" LinkGroup="Utility">GetCurrentDatabase Method {Utility.clsDataQuery}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetCurrentDatabase" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000E4.html" LinkGroup="Utility">GetCurrentDatabase Method {Utility.clsDatabase}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.GetCurrentProvider" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000139.html" LinkGroup="Utility">GetCurrentProvider Method {Utility.clsDataQuery}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetCurrentProvider" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000E5.html" LinkGroup="Utility">GetCurrentProvider Method {Utility.clsDatabase}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.Impersonator.GetCurrentUser" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000039.html" LinkGroup="Utility">GetCurrentUser Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetDataSet" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000EA.html" LinkGroup="Utility">GetDataSet Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetDataTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000EB.html" LinkGroup="Utility">GetDataTable Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.GetDateRange" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000069.html" LinkGroup="Utility">GetDateRange Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetDictionary" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000E9.html" LinkGroup="Utility">GetDictionary Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMapping.GetDistance" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000004E.html" LinkGroup="Utility">GetDistance Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.GetDistanceRem" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000034.html" LinkGroup="Utility">GetDistanceRem Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetDistinct" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000F9.html" LinkGroup="Utility">GetDistinct Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetDistinctString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000F8.html" LinkGroup="Utility">GetDistinctString Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarEditingControl.GetEditingControlFormattedValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000A6.html" LinkGroup="Utility">GetEditingControlFormattedValue Method {Utility.SmartGrid.CalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownEditingControl.GetEditingControlFormattedValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000BB.html" LinkGroup="Utility">GetEditingControlFormattedValue Method {Utility.SmartGrid.NumericUpDownEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsEligibility.GetEligibility" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000070.html" LinkGroup="Utility">GetEligibility Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.GetEndOfDay" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000109.html" LinkGroup="Utility">GetEndOfDay Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetExcelSchema" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000DA.html" LinkGroup="Utility">GetExcelSchema Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.GetFileImage" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000001B.html" LinkGroup="Utility">GetFileImage Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFolderWatcher.GetFileTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000CE.html" LinkGroup="Utility">GetFileTable Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.GetFirstDayInMonth" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000106.html" LinkGroup="Utility">GetFirstDayInMonth Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsBusiness.GetHRAStatus" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000007.html" LinkGroup="Utility">GetHRAStatus Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.GetIdentity" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000013D_overloads+.html" LinkGroup="Utility">GetIdentity Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.GetIdentity" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000013C_overloads+.html" LinkGroup="Utility">GetIdentity Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.GetIdentityAsync" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000146.html" LinkGroup="Utility">GetIdentityAsync Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.GetImage" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000019.html" LinkGroup="Utility">GetImage Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsSQLParser.GetInsert" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000049.html" LinkGroup="Utility">GetInsert Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMapping.GetLadLon" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000051.html" LinkGroup="Utility">GetLadLon Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.GetLastDayInMonth" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000107.html" LinkGroup="Utility">GetLastDayInMonth Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsBusiness.GetLibrary" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000009.html" LinkGroup="Utility">GetLibrary Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetMaxFieldLength" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000F7.html" LinkGroup="Utility">GetMaxFieldLength Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsBusiness.GetMemberData" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000005.html" LinkGroup="Utility">GetMemberData Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsBusiness.GetMemberName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000004.html" LinkGroup="Utility">GetMemberName Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetODBCDataReader" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000E8.html" LinkGroup="Utility">GetODBCDataReader Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.GetOldestFile" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000001C.html" LinkGroup="Utility">GetOldestFile Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsBusiness.GetPharmTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000000A.html" LinkGroup="Utility">GetPharmTable Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.GetPrinters" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000029.html" LinkGroup="Utility">GetPrinters Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsBusiness.GetRecertDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000006.html" LinkGroup="Utility">GetRecertDate Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.GetRecord" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000008F.html" LinkGroup="Utility">GetRecord Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetRecordCount" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000F0.html" LinkGroup="Utility">GetRecordCount Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.GetRegValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000030.html" LinkGroup="Utility">GetRegValue Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetRowCopy" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000F4.html" LinkGroup="Utility">GetRowCopy Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetRowValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000F5.html" LinkGroup="Utility">GetRowValue Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetSQLDataReader" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000E7.html" LinkGroup="Utility">GetSQLDataReader Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetSchema" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000F6.html" LinkGroup="Utility">GetSchema Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMapping.GetStandardAddress" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000052.html" LinkGroup="Utility">GetStandardAddress Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.GetStartOfDay" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000108.html" LinkGroup="Utility">GetStartOfDay Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetSysParam" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000DD.html" LinkGroup="Utility">GetSysParam Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetSysParamTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000DE.html" LinkGroup="Utility">GetSysParamTable Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.GetTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000013E.html" LinkGroup="Utility">GetTable Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.GetTableAsync" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000147.html" LinkGroup="Utility">GetTableAsync Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.GetTableNoSchema" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000013F.html" LinkGroup="Utility">GetTableNoSchema Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.GetTableNoSchemaAsync" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000148.html" LinkGroup="Utility">GetTableNoSchemaAsync Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.GetTextBetween" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000010A.html" LinkGroup="Utility">GetTextBetween Method {Utility.clsFormatting}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsSQLParser.GetTextBetween" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000004B.html" LinkGroup="Utility">GetTextBetween Method {Utility.clsSQLParser}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsSQLParser.GetUpdate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000004A.html" LinkGroup="Utility">GetUpdate Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.GetUser" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000013.html" LinkGroup="Utility">GetUser Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.GetUserInfo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000014.html" LinkGroup="Utility">GetUserInfo Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.GetUserProperty" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000027.html" LinkGroup="Utility">GetUserProperty Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsBusiness.GetUserRoles" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000003.html" LinkGroup="Utility">GetUserRoles Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.GetValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000013B.html" LinkGroup="Utility">GetValue Method {Utility.clsDataQuery}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000ED.html" LinkGroup="Utility">GetValue Method {Utility.clsDatabase}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.GetValueAsync" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000145.html" LinkGroup="Utility">GetValueAsync Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetValueCmd" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000EF_overloads+.html" LinkGroup="Utility">GetValueCmd Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetValueCmd" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000EE_overloads+.html" LinkGroup="Utility">GetValueCmd Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.GetValueText" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000EC.html" LinkGroup="Utility">GetValueText Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.GetWebImage" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000001A.html" LinkGroup="Utility">GetWebImage Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.GridClear" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000008C.html" LinkGroup="Utility">GridClear Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.GridCopy" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000098.html" LinkGroup="Utility">GridCopy Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.GridPrint" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000C5.html" LinkGroup="Utility">GridPrint Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.GridShow" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000008D.html" LinkGroup="Utility">GridShow Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.GridTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000C7.html" LinkGroup="Utility">GridTable Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.HostAddressGet" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000012.html" LinkGroup="Utility">HostAddressGet Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.HostNameGet" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000011.html" LinkGroup="Utility">HostNameGet Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.IconFromFile" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000035.html" LinkGroup="Utility">IconFromFile Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.ImageRead" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000D4.html" LinkGroup="Utility">ImageRead Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.ImageWrite" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000D2.html" LinkGroup="Utility">ImageWrite Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.Impersonator.ImpersonateStart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000037.html" LinkGroup="Utility">ImpersonateStart Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.Impersonator.ImpersonateStop" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000038.html" LinkGroup="Utility">ImpersonateStop Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.Impersonator" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000036.html" LinkGroup="Utility">Impersonator Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarCell.InitializeEditingControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000A0.html" LinkGroup="Utility">InitializeEditingControl Method {Utility.SmartGrid.CalendarCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownCell.InitializeEditingControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000B5.html" LinkGroup="Utility">InitializeEditingControl Method {Utility.SmartGrid.NumericUpDownCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.InsertNeeded" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000073.html" LinkGroup="Utility">InsertNeeded Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.IsAddressSame" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000113.html" LinkGroup="Utility">IsAddressSame Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.IsConnectionValid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000137.html" LinkGroup="Utility">IsConnectionValid Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsBusiness.IsEligible" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000000B.html" LinkGroup="Utility">IsEligible Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.IsInArray" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000066.html" LinkGroup="Utility">IsInArray Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.IsInArrayNumeric" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000068.html" LinkGroup="Utility">IsInArrayNumeric Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.IsInString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000065.html" LinkGroup="Utility">IsInString Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.IsInStringNumeric" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000067.html" LinkGroup="Utility">IsInStringNumeric Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.IsODBCConnectionValid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000E2.html" LinkGroup="Utility">IsODBCConnectionValid Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.IsPhone" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000117.html" LinkGroup="Utility">IsPhone Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMedia.IsPlaying" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000044.html" LinkGroup="Utility">IsPlaying Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.IsPrinterInstalled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000028.html" LinkGroup="Utility">IsPrinterInstalled Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.IsSQLConnectionValid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000E1.html" LinkGroup="Utility">IsSQLConnectionValid Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.IsURL" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000018.html" LinkGroup="Utility">IsURL Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.IsUserInGroupList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000015.html" LinkGroup="Utility">IsUserInGroupList Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.IsZip" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000115.html" LinkGroup="Utility">IsZip Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.LastQueryIdentity" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000014B.html" LinkGroup="Utility">LastQueryIdentity Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.LastQueryTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000014C.html" LinkGroup="Utility">LastQueryTable Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.LastQueryTime" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000014D.html" LinkGroup="Utility">LastQueryTime Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.LastQueryType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000014E.html" LinkGroup="Utility">LastQueryType Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.LastQueryValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000014F.html" LinkGroup="Utility">LastQueryValue Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.ListFill" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000005F.html" LinkGroup="Utility">ListFill Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.ListSearch" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000060.html" LinkGroup="Utility">ListSearch Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.LogQueryEnd" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000FC.html" LinkGroup="Utility">LogQueryEnd Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.LogQueryStart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000FB.html" LinkGroup="Utility">LogQueryStart Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.MacessDocument" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000010.html" LinkGroup="Utility">MacessDocument Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.MacessFolder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000000F.html" LinkGroup="Utility">MacessFolder Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.MailError" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000022.html" LinkGroup="Utility">MailError Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.MailSend" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000020.html" LinkGroup="Utility">MailSend Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.MailSendRem" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000021.html" LinkGroup="Utility">MailSendRem Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.MakeControlsEditable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000058.html" LinkGroup="Utility">MakeControlsEditable Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMedia.MediaPause" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000041.html" LinkGroup="Utility">MediaPause Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMedia.MediaPlay" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000003E.html" LinkGroup="Utility">MediaPlay Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMedia.MediaRecordStart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000003F.html" LinkGroup="Utility">MediaRecordStart Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMedia.MediaRecordStop" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000040.html" LinkGroup="Utility">MediaRecordStop Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMedia.MediaResume" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000042.html" LinkGroup="Utility">MediaResume Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMedia.MediaStop" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000043.html" LinkGroup="Utility">MediaStop Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsBusiness.MemberExists" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000000D.html" LinkGroup="Utility">MemberExists Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.MenuAddRecent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000005E.html" LinkGroup="Utility">MenuAddRecent Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000B3.html" LinkGroup="Utility">NumericUpDownCell Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownCell.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000B4.html" LinkGroup="Utility">NumericUpDownCell Constructor {Utility.SmartGrid.NumericUpDownCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000B0.html" LinkGroup="Utility">NumericUpDownColumn Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownColumn.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000B1.html" LinkGroup="Utility">NumericUpDownColumn Constructor {Utility.SmartGrid.NumericUpDownColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownEditingControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000B9.html" LinkGroup="Utility">NumericUpDownEditingControl Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownEditingControl.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000BA.html" LinkGroup="Utility">NumericUpDownEditingControl Constructor {Utility.SmartGrid.NumericUpDownEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.OpenFile" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000063.html" LinkGroup="Utility">OpenFile Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.Orientation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000C6.html" LinkGroup="Utility">Orientation Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.OrientationFlip" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000008E.html" LinkGroup="Utility">OrientationFlip Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.PGPDecrypt" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000002D.html" LinkGroup="Utility">PGPDecrypt Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.PGPEncrypt" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000002C.html" LinkGroup="Utility">PGPEncrypt Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.ParamSet" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000135.html" LinkGroup="Utility">ParamSet Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.ParamsClear" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000136.html" LinkGroup="Utility">ParamsClear Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsSQLParser.Parse" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000047.html" LinkGroup="Utility">Parse Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarEditingControl.PrepareEditingControlForEdit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000A9.html" LinkGroup="Utility">PrepareEditingControlForEdit Method {Utility.SmartGrid.CalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownEditingControl.PrepareEditingControlForEdit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000BE.html" LinkGroup="Utility">PrepareEditingControlForEdit Method {Utility.SmartGrid.NumericUpDownEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.PrintFile" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000002B.html" LinkGroup="Utility">PrintFile Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.PrintText" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000002A.html" LinkGroup="Utility">PrintText Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.PromptForConnection" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000E3.html" LinkGroup="Utility">PromptForConnection Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.Quote" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000122.html" LinkGroup="Utility">Quote Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.Raise" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000149.html" LinkGroup="Utility">Raise Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.RecordDoubleClicked" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000079.html" LinkGroup="Utility">RecordDoubleClicked Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.RecordSelected" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000076.html" LinkGroup="Utility">RecordSelected Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.RecordUpdate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000090.html" LinkGroup="Utility">RecordUpdate Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.RefreshNeeded" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000075.html" LinkGroup="Utility">RefreshNeeded Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.Routines.ReleaseObj" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000006C.html" LinkGroup="Utility">ReleaseObj Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ReplaceFirst" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000125.html" LinkGroup="Utility">ReplaceFirst Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.Routines.ReportError" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000006B.html" LinkGroup="Utility">ReportError Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.ReportFieldLengths" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000096.html" LinkGroup="Utility">ReportFieldLengths Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarEditingControl.RepositionEditingControlOnValueChange" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000AA.html" LinkGroup="Utility">RepositionEditingControlOnValueChange Property {Utility.SmartGrid.CalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownEditingControl.RepositionEditingControlOnValueChange" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000C3.html" LinkGroup="Utility">RepositionEditingControlOnValueChange Property {Utility.SmartGrid.NumericUpDownEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.DBTransaction.Rollback" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000101.html" LinkGroup="Utility">Rollback Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SaveChanges" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000097.html" LinkGroup="Utility">SaveChanges Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.Scramble" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000123.html" LinkGroup="Utility">Scramble Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.SelectFromGrid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000005B.html" LinkGroup="Utility">SelectFromGrid Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.SelectFromGridMulti" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000005C.html" LinkGroup="Utility">SelectFromGridMulti Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.SelectFromList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000005A.html" LinkGroup="Utility">SelectFromList Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.SetAttribute" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000012C.html" LinkGroup="Utility">SetAttribute Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000092.html" LinkGroup="Utility">SetCell Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetColWidth" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000095_overloads+.html" LinkGroup="Utility">SetColWidth Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetColWidth" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000094_overloads+.html" LinkGroup="Utility">SetColWidth Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetDisplayedValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000009A_overloads+.html" LinkGroup="Utility">SetDisplayedValue Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetDisplayedValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000099_overloads+.html" LinkGroup="Utility">SetDisplayedValue Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetEditable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000087_overloads+.html" LinkGroup="Utility">SetEditable Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetEditable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000086_overloads+.html" LinkGroup="Utility">SetEditable Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetFrozen" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000088.html" LinkGroup="Utility">SetFrozen Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetHeaderText" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000089.html" LinkGroup="Utility">SetHeaderText Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetRecord" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000093.html" LinkGroup="Utility">SetRecord Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetStyleBoolean" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000083.html" LinkGroup="Utility">SetStyleBoolean Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetStyleClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000084.html" LinkGroup="Utility">SetStyleClick Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetStyleDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000081.html" LinkGroup="Utility">SetStyleDate Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetStyleList" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000082.html" LinkGroup="Utility">SetStyleList Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetStyleNumeric" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000080.html" LinkGroup="Utility">SetStyleNumeric Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetStyleText" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000007F.html" LinkGroup="Utility">SetStyleText Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetToolButton" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000007D.html" LinkGroup="Utility">SetToolButton Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetToolButtons" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000007E.html" LinkGroup="Utility">SetToolButtons Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetToolButtonsClear" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000007C.html" LinkGroup="Utility">SetToolButtonsClear Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetToolDock" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000007B.html" LinkGroup="Utility">SetToolDock Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.Routines.SetUserInfo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000006A.html" LinkGroup="Utility">SetUserInfo Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.SetVisible" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000085.html" LinkGroup="Utility">SetVisible Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.ShowAbout" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000005D.html" LinkGroup="Utility">ShowAbout Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMapping.ShowDirections" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000050.html" LinkGroup="Utility">ShowDirections Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.ShowInBrowser" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000064.html" LinkGroup="Utility">ShowInBrowser Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.ShowMaintenance" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000062_overloads+.html" LinkGroup="Utility">ShowMaintenance Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface.ShowMaintenance" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000061_overloads+.html" LinkGroup="Utility">ShowMaintenance Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMapping.ShowMap" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000004F.html" LinkGroup="Utility">ShowMap Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000003A.html" LinkGroup="Utility">SmartGrid Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.Sort" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000008B.html" LinkGroup="Utility">Sort Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.SortDataTable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000FA.html" LinkGroup="Utility">SortDataTable Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.StripWhiteSpace" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000119.html" LinkGroup="Utility">StripWhiteSpace Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.TCPSend" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000031.html" LinkGroup="Utility">TCPSend Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.TCPSendRem" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000032.html" LinkGroup="Utility">TCPSendRem Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.TextImport" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000D7.html" LinkGroup="Utility">TextImport Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.TextImportDelimited" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000D8.html" LinkGroup="Utility">TextImportDelimited Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToAddress" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000011B.html" LinkGroup="Utility">ToAddress Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToBoolean" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000010B.html" LinkGroup="Utility">ToBoolean Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToCurrency" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000127.html" LinkGroup="Utility">ToCurrency Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToDecimalPlaces" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000011A.html" LinkGroup="Utility">ToDecimalPlaces Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToFullName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000011C.html" LinkGroup="Utility">ToFullName Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToGender" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000120.html" LinkGroup="Utility">ToGender Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToMhsDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000011D.html" LinkGroup="Utility">ToMhsDate Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToNumericCharsOnly" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000118.html" LinkGroup="Utility">ToNumericCharsOnly Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToPercent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000128.html" LinkGroup="Utility">ToPercent Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToPhone" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000116.html" LinkGroup="Utility">ToPhone Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToSSN" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000111.html" LinkGroup="Utility">ToSSN Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToStdTime" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000011F.html" LinkGroup="Utility">ToStdTime Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToStr" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000010C.html" LinkGroup="Utility">ToStr Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToTime" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000011E.html" LinkGroup="Utility">ToTime Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToTitle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000126.html" LinkGroup="Utility">ToTitle Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToURL" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000010D.html" LinkGroup="Utility">ToURL Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking.ToUncPath" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000017.html" LinkGroup="Utility">ToUncPath Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToXML" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000010E.html" LinkGroup="Utility">ToXML Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ToZip" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000114.html" LinkGroup="Utility">ToZip Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.ToolButtonClicked" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000078.html" LinkGroup="Utility">ToolButtonClicked Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.TransactionBegin" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000140.html" LinkGroup="Utility">TransactionBegin Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.TransactionCommit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000142.html" LinkGroup="Utility">TransactionCommit Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.TransactionRollback" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000141.html" LinkGroup="Utility">TransactionRollback Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.UpdateNeeded" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000072.html" LinkGroup="Utility">UpdateNeeded Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000151.html" LinkGroup="Utility">Utility Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000150.html" LinkGroup="Utility">Utility Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.CalendarCell.ValueType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000A2.html" LinkGroup="Utility">ValueType Property {Utility.SmartGrid.CalendarCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.SmartGrid.NumericUpDownCell.ValueType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000B6.html" LinkGroup="Utility">ValueType Property {Utility.SmartGrid.NumericUpDownCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.XmlFromDatatable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000DB.html" LinkGroup="Utility">XmlFromDatatable Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase.XmlToDatatable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000DC.html" LinkGroup="Utility">XmlToDatatable Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.ZipFromAddr" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000121.html" LinkGroup="Utility">ZipFromAddr Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsBusiness" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000002.html" LinkGroup="Utility">clsBusiness Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000133.html" LinkGroup="Utility">clsDataQuery Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000134.html" LinkGroup="Utility">clsDataQuery Constructor {Utility.clsDataQuery}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDatabase" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000D1.html" LinkGroup="Utility">clsDatabase Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsEligibility" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000006D.html" LinkGroup="Utility">clsEligibility Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsEligibility.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000006E.html" LinkGroup="Utility">clsEligibility Constructor {Utility.clsEligibility}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFolderWatcher" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000CB.html" LinkGroup="Utility">clsFolderWatcher Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFolderWatcher.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000CD.html" LinkGroup="Utility">clsFolderWatcher Constructor {Utility.clsFolderWatcher}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000103.html" LinkGroup="Utility">clsFormatting Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMapping" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000004D.html" LinkGroup="Utility">clsMapping Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsMedia" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000003D.html" LinkGroup="Utility">clsMedia Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsNetworking" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000000E.html" LinkGroup="Utility">clsNetworking Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsSQLParser" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000045.html" LinkGroup="Utility">clsSQLParser Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsSQLParser.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000046.html" LinkGroup="Utility">clsSQLParser Constructor {Utility.clsSQLParser}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsUserInterface" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000056.html" LinkGroup="Utility">clsUserInterface Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.frmAbout" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000055.html" LinkGroup="Utility">frmAbout Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.frmChooseRole" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000004C.html" LinkGroup="Utility">frmChooseRole Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.frmEditRow" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000001.html" LinkGroup="Utility">frmEditRow Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.frmListSelector" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000003C.html" LinkGroup="Utility">frmListSelector Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.frmSmartFilter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000003B.html" LinkGroup="Utility">frmSmartFilter Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.frmSmartFilter.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000C8.html" LinkGroup="Utility">frmSmartFilter Constructor {Utility.frmSmartFilter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.frmSmartSelector" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_00000000000000CA.html" LinkGroup="Utility">frmSmartSelector Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.frmUsers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000000.html" LinkGroup="Utility">frmUsers Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsFormatting.q" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_0000000000000104.html" LinkGroup="Utility">q Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Utility.clsDataQuery.sqlComplete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Utility.chm::/topic_000000000000014A.html" LinkGroup="Utility">sqlComplete Property</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

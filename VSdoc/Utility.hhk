@@ -1,0 +1,2026 @@
+<HTML>
+<!-- Sitemap 1.0 -->
+<OBJECT type="text/site properties">
+</OBJECT>
+
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="AppendIfNeeded Method">
+		<param name="Name" value="AppendIfNeeded Method">
+		<param name="Local" value="topic_0000000000000124.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="AppendText Method">
+		<param name="Name" value="AppendText Method">
+		<param name="Local" value="topic_000000000000001D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ApplyCellStyleToEditingControl Method {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Name" value="ApplyCellStyleToEditingControl Method {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Local" value="topic_00000000000000A7.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ApplyCellStyleToEditingControl Method {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Name" value="ApplyCellStyleToEditingControl Method {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Local" value="topic_00000000000000BC.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ApplyXSLT Method">
+		<param name="Name" value="ApplyXSLT Method">
+		<param name="Local" value="topic_000000000000012D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="AspectListener Class">
+		<param name="Name" value="AspectListener Class">
+		<param name="Local" value="topic_0000000000000024.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="AspectListener Constructor {Utility.clsNetworking.AspectListener}">
+		<param name="Name" value="AspectListener Constructor {Utility.clsNetworking.AspectListener}">
+		<param name="Local" value="topic_0000000000000026.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="AspectReceived Event">
+		<param name="Name" value="AspectReceived Event">
+		<param name="Local" value="topic_0000000000000025.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="AssemblePhone Method">
+		<param name="Name" value="AssemblePhone Method">
+		<param name="Local" value="topic_0000000000000112.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="AssignValues Method">
+		<param name="Name" value="AssignValues Method">
+		<param name="Local" value="topic_0000000000000048.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="BinaryRead Method">
+		<param name="Name" value="BinaryRead Method">
+		<param name="Local" value="topic_00000000000000D5.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="BinaryWrite Method">
+		<param name="Name" value="BinaryWrite Method">
+		<param name="Local" value="topic_00000000000000D3.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="CalcDistance Method">
+		<param name="Name" value="CalcDistance Method">
+		<param name="Local" value="topic_0000000000000053.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="CalendarCell Class">
+		<param name="Name" value="CalendarCell Class">
+		<param name="Local" value="topic_000000000000009E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="CalendarCell Constructor {Utility.SmartGrid.CalendarCell}">
+		<param name="Name" value="CalendarCell Constructor {Utility.SmartGrid.CalendarCell}">
+		<param name="Local" value="topic_000000000000009F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="CalendarColumn Class">
+		<param name="Name" value="CalendarColumn Class">
+		<param name="Local" value="topic_000000000000009B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="CalendarColumn Constructor {Utility.SmartGrid.CalendarColumn}">
+		<param name="Name" value="CalendarColumn Constructor {Utility.SmartGrid.CalendarColumn}">
+		<param name="Local" value="topic_000000000000009C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="CalendarEditingControl Class">
+		<param name="Name" value="CalendarEditingControl Class">
+		<param name="Local" value="topic_00000000000000A4.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="CalendarEditingControl Constructor {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Name" value="CalendarEditingControl Constructor {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Local" value="topic_00000000000000A5.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="CaptureForm Method">
+		<param name="Name" value="CaptureForm Method">
+		<param name="Local" value="topic_000000000000001F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="CaptureScreen Method">
+		<param name="Name" value="CaptureScreen Method">
+		<param name="Local" value="topic_000000000000001E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="CellButtonClicked Event">
+		<param name="Name" value="CellButtonClicked Event">
+		<param name="Local" value="topic_0000000000000077.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="CellTemplate Property {Utility.SmartGrid.CalendarColumn}">
+		<param name="Name" value="CellTemplate Property {Utility.SmartGrid.CalendarColumn}">
+		<param name="Local" value="topic_000000000000009D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="CellTemplate Property {Utility.SmartGrid.NumericUpDownColumn}">
+		<param name="Name" value="CellTemplate Property {Utility.SmartGrid.NumericUpDownColumn}">
+		<param name="Local" value="topic_00000000000000B2.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="CheckRemoteLibrary Method">
+		<param name="Name" value="CheckRemoteLibrary Method">
+		<param name="Local" value="topic_0000000000000033.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ClearRequest Method">
+		<param name="Name" value="ClearRequest Method">
+		<param name="Local" value="topic_000000000000006F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ColumnProperties Class">
+		<param name="Name" value="ColumnProperties Class">
+		<param name="Local" value="topic_000000000000007A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Commit Method">
+		<param name="Name" value="Commit Method">
+		<param name="Local" value="topic_0000000000000100.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Compress Method">
+		<param name="Name" value="Compress Method">
+		<param name="Local" value="topic_0000000000000129.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ConfirmChange Event">
+		<param name="Name" value="ConfirmChange Event">
+		<param name="Local" value="topic_0000000000000071.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="DBTransaction Class">
+		<param name="Name" value="DBTransaction Class">
+		<param name="Local" value="topic_00000000000000FE.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="DBTransaction Constructor {Utility.clsDatabase.DBTransaction}">
+		<param name="Name" value="DBTransaction Constructor {Utility.clsDatabase.DBTransaction}">
+		<param name="Local" value="topic_00000000000000FF.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="DataTableExport Method">
+		<param name="Name" value="DataTableExport Method">
+		<param name="Local" value="topic_00000000000000D6.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Decompress Method">
+		<param name="Name" value="Decompress Method">
+		<param name="Local" value="topic_000000000000012A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Decrypt Method">
+		<param name="Name" value="Decrypt Method">
+		<param name="Local" value="topic_0000000000000131.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="DefaultNewRowValue Property {Utility.SmartGrid.CalendarCell}">
+		<param name="Name" value="DefaultNewRowValue Property {Utility.SmartGrid.CalendarCell}">
+		<param name="Local" value="topic_00000000000000A1.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="DefaultNewRowValue Property {Utility.SmartGrid.NumericUpDownCell}">
+		<param name="Name" value="DefaultNewRowValue Property {Utility.SmartGrid.NumericUpDownCell}">
+		<param name="Local" value="topic_00000000000000B7.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="DeleteNeeded Event">
+		<param name="Name" value="DeleteNeeded Event">
+		<param name="Local" value="topic_0000000000000074.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditType Property {Utility.SmartGrid.CalendarCell}">
+		<param name="Name" value="EditType Property {Utility.SmartGrid.CalendarCell}">
+		<param name="Local" value="topic_00000000000000A3.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditType Property {Utility.SmartGrid.NumericUpDownCell}">
+		<param name="Name" value="EditType Property {Utility.SmartGrid.NumericUpDownCell}">
+		<param name="Local" value="topic_00000000000000B8.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditingControlCursor Property {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Name" value="EditingControlCursor Property {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Local" value="topic_00000000000000AC.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditingControlCursor Property {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Name" value="EditingControlCursor Property {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Local" value="topic_00000000000000C0.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditingControlDataGridView Property {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Name" value="EditingControlDataGridView Property {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Local" value="topic_00000000000000AB.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditingControlDataGridView Property {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Name" value="EditingControlDataGridView Property {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Local" value="topic_00000000000000C4.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditingControlFormattedValue Property {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Name" value="EditingControlFormattedValue Property {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Local" value="topic_00000000000000AE.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditingControlFormattedValue Property {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Name" value="EditingControlFormattedValue Property {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Local" value="topic_00000000000000BF.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditingControlRowIndex Property {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Name" value="EditingControlRowIndex Property {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Local" value="topic_00000000000000AF.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditingControlRowIndex Property {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Name" value="EditingControlRowIndex Property {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Local" value="topic_00000000000000C2.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditingControlValueChanged Property {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Name" value="EditingControlValueChanged Property {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Local" value="topic_00000000000000AD.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditingControlValueChanged Property {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Name" value="EditingControlValueChanged Property {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Local" value="topic_00000000000000C1.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditingControlWantsInputKey Method {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Name" value="EditingControlWantsInputKey Method {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Local" value="topic_00000000000000A8.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EditingControlWantsInputKey Method {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Name" value="EditingControlWantsInputKey Method {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Local" value="topic_00000000000000BD.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EmailValidate Method">
+		<param name="Name" value="EmailValidate Method">
+		<param name="Local" value="topic_0000000000000023.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Enabled Property">
+		<param name="Name" value="Enabled Property">
+		<param name="Local" value="topic_00000000000000D0.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Encrypt Method">
+		<param name="Name" value="Encrypt Method">
+		<param name="Local" value="topic_0000000000000130.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Encrypter Class">
+		<param name="Name" value="Encrypter Class">
+		<param name="Local" value="topic_000000000000012E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Encrypter Constructor {Utility.clsFormatting.Encrypter}">
+		<param name="Name" value="Encrypter Constructor {Utility.clsFormatting.Encrypter}">
+		<param name="Local" value="topic_000000000000012F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ErrorTableCheck Method">
+		<param name="Name" value="ErrorTableCheck Method">
+		<param name="Local" value="topic_00000000000000E0.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ErrorTableCreate Method">
+		<param name="Name" value="ErrorTableCreate Method">
+		<param name="Local" value="topic_00000000000000DF.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="EventLogSave Method">
+		<param name="Name" value="EventLogSave Method">
+		<param name="Local" value="topic_00000000000000FD.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ExcelImport Method">
+		<param name="Name" value="ExcelImport Method">
+		<param name="Local" value="topic_00000000000000D9.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Execute Method {Utility.clsDataQuery}">
+		<param name="Name" value="Execute Method {Utility.clsDataQuery}">
+		<param name="Local" value="topic_000000000000013A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Execute Method {Utility.clsDatabase.DBTransaction}">
+		<param name="Name" value="Execute Method {Utility.clsDatabase.DBTransaction}">
+		<param name="Local" value="topic_0000000000000102.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ExecuteAction Method">
+		<param name="Name" value="ExecuteAction Method">
+		<param name="Local" value="topic_00000000000000F1.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ExecuteAsync Method">
+		<param name="Name" value="ExecuteAsync Method">
+		<param name="Local" value="topic_0000000000000144.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ExecuteSpODBC Method">
+		<param name="Name" value="ExecuteSpODBC Method">
+		<param name="Local" value="topic_00000000000000F3.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ExecuteSpSQL Method">
+		<param name="Name" value="ExecuteSpSQL Method">
+		<param name="Local" value="topic_00000000000000F2.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="FTPGet Method">
+		<param name="Name" value="FTPGet Method">
+		<param name="Local" value="topic_000000000000002E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="FTPPut Method">
+		<param name="Name" value="FTPPut Method">
+		<param name="Local" value="topic_000000000000002F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="FileChanged Event">
+		<param name="Name" value="FileChanged Event">
+		<param name="Local" value="topic_00000000000000CC.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Filter Method">
+		<param name="Name" value="Filter Method">
+		<param name="Local" value="topic_000000000000008A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Finished Event">
+		<param name="Name" value="Finished Event">
+		<param name="Local" value="topic_0000000000000143.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Folder Property">
+		<param name="Name" value="Folder Property">
+		<param name="Local" value="topic_00000000000000CF.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="FormatMemberInfoGrid Method">
+		<param name="Name" value="FormatMemberInfoGrid Method">
+		<param name="Local" value="topic_0000000000000057.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="FromMhsDate Method">
+		<param name="Name" value="FromMhsDate Method">
+		<param name="Local" value="topic_0000000000000110.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="FromXML Method">
+		<param name="Name" value="FromXML Method">
+		<param name="Local" value="topic_000000000000010F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetActiveDirectoryGroups Method">
+		<param name="Name" value="GetActiveDirectoryGroups Method">
+		<param name="Local" value="topic_0000000000000016.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetAge Method">
+		<param name="Name" value="GetAge Method">
+		<param name="Local" value="topic_0000000000000105.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetAttribute Method">
+		<param name="Name" value="GetAttribute Method">
+		<param name="Local" value="topic_000000000000012B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetBorough Method">
+		<param name="Name" value="GetBorough Method">
+		<param name="Local" value="topic_0000000000000054.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetCCMSStatus Method">
+		<param name="Name" value="GetCCMSStatus Method">
+		<param name="Local" value="topic_000000000000000C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetCell Method">
+		<param name="Name" value="GetCell Method">
+		<param name="Local" value="topic_0000000000000091.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetClaimTypes Method">
+		<param name="Name" value="GetClaimTypes Method">
+		<param name="Local" value="topic_0000000000000008.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetConnectionReport Method">
+		<param name="Name" value="GetConnectionReport Method">
+		<param name="Local" value="topic_00000000000000E6.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetControlString Method">
+		<param name="Name" value="GetControlString Method">
+		<param name="Local" value="topic_0000000000000059.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetCurrentDatabase Method {Utility.clsDataQuery}">
+		<param name="Name" value="GetCurrentDatabase Method {Utility.clsDataQuery}">
+		<param name="Local" value="topic_0000000000000138.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetCurrentDatabase Method {Utility.clsDatabase}">
+		<param name="Name" value="GetCurrentDatabase Method {Utility.clsDatabase}">
+		<param name="Local" value="topic_00000000000000E4.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetCurrentProvider Method {Utility.clsDataQuery}">
+		<param name="Name" value="GetCurrentProvider Method {Utility.clsDataQuery}">
+		<param name="Local" value="topic_0000000000000139.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetCurrentProvider Method {Utility.clsDatabase}">
+		<param name="Name" value="GetCurrentProvider Method {Utility.clsDatabase}">
+		<param name="Local" value="topic_00000000000000E5.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetCurrentUser Method">
+		<param name="Name" value="GetCurrentUser Method">
+		<param name="Local" value="topic_0000000000000039.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetDataSet Method">
+		<param name="Name" value="GetDataSet Method">
+		<param name="Local" value="topic_00000000000000EA.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetDataTable Method">
+		<param name="Name" value="GetDataTable Method">
+		<param name="Local" value="topic_00000000000000EB.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetDateRange Method">
+		<param name="Name" value="GetDateRange Method">
+		<param name="Local" value="topic_0000000000000069.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetDictionary Method">
+		<param name="Name" value="GetDictionary Method">
+		<param name="Local" value="topic_00000000000000E9.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetDistance Method">
+		<param name="Name" value="GetDistance Method">
+		<param name="Local" value="topic_000000000000004E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetDistanceRem Method">
+		<param name="Name" value="GetDistanceRem Method">
+		<param name="Local" value="topic_0000000000000034.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetDistinct Method">
+		<param name="Name" value="GetDistinct Method">
+		<param name="Local" value="topic_00000000000000F9.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetDistinctString Method">
+		<param name="Name" value="GetDistinctString Method">
+		<param name="Local" value="topic_00000000000000F8.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetEditingControlFormattedValue Method {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Name" value="GetEditingControlFormattedValue Method {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Local" value="topic_00000000000000A6.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetEditingControlFormattedValue Method {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Name" value="GetEditingControlFormattedValue Method {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Local" value="topic_00000000000000BB.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetEligibility Method">
+		<param name="Name" value="GetEligibility Method">
+		<param name="Local" value="topic_0000000000000070.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetEndOfDay Method">
+		<param name="Name" value="GetEndOfDay Method">
+		<param name="Local" value="topic_0000000000000109.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetExcelSchema Method">
+		<param name="Name" value="GetExcelSchema Method">
+		<param name="Local" value="topic_00000000000000DA.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetFileImage Method">
+		<param name="Name" value="GetFileImage Method">
+		<param name="Local" value="topic_000000000000001B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetFileTable Method">
+		<param name="Name" value="GetFileTable Method">
+		<param name="Local" value="topic_00000000000000CE.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetFirstDayInMonth Method">
+		<param name="Name" value="GetFirstDayInMonth Method">
+		<param name="Local" value="topic_0000000000000106.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetHRAStatus Method">
+		<param name="Name" value="GetHRAStatus Method">
+		<param name="Local" value="topic_0000000000000007.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetIdentity  Method">
+		<param name="Name" value="GetIdentity  Method">
+		<param name="Local" value="topic_000000000000013D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetIdentity (System.String) Method">
+		<param name="Name" value="GetIdentity (System.String) Method">
+		<param name="Local" value="topic_000000000000013C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetIdentityAsync Method">
+		<param name="Name" value="GetIdentityAsync Method">
+		<param name="Local" value="topic_0000000000000146.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetImage Method">
+		<param name="Name" value="GetImage Method">
+		<param name="Local" value="topic_0000000000000019.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetInsert Method">
+		<param name="Name" value="GetInsert Method">
+		<param name="Local" value="topic_0000000000000049.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetLadLon Method">
+		<param name="Name" value="GetLadLon Method">
+		<param name="Local" value="topic_0000000000000051.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetLastDayInMonth Method">
+		<param name="Name" value="GetLastDayInMonth Method">
+		<param name="Local" value="topic_0000000000000107.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetLibrary Method">
+		<param name="Name" value="GetLibrary Method">
+		<param name="Local" value="topic_0000000000000009.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetMaxFieldLength Method">
+		<param name="Name" value="GetMaxFieldLength Method">
+		<param name="Local" value="topic_00000000000000F7.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetMemberData Method">
+		<param name="Name" value="GetMemberData Method">
+		<param name="Local" value="topic_0000000000000005.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetMemberName Method">
+		<param name="Name" value="GetMemberName Method">
+		<param name="Local" value="topic_0000000000000004.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetODBCDataReader Method">
+		<param name="Name" value="GetODBCDataReader Method">
+		<param name="Local" value="topic_00000000000000E8.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetOldestFile Method">
+		<param name="Name" value="GetOldestFile Method">
+		<param name="Local" value="topic_000000000000001C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetPharmTable Method">
+		<param name="Name" value="GetPharmTable Method">
+		<param name="Local" value="topic_000000000000000A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetPrinters Method">
+		<param name="Name" value="GetPrinters Method">
+		<param name="Local" value="topic_0000000000000029.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetRecertDate Method">
+		<param name="Name" value="GetRecertDate Method">
+		<param name="Local" value="topic_0000000000000006.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetRecord Method">
+		<param name="Name" value="GetRecord Method">
+		<param name="Local" value="topic_000000000000008F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetRecordCount Method">
+		<param name="Name" value="GetRecordCount Method">
+		<param name="Local" value="topic_00000000000000F0.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetRegValue Method">
+		<param name="Name" value="GetRegValue Method">
+		<param name="Local" value="topic_0000000000000030.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetRowCopy Method">
+		<param name="Name" value="GetRowCopy Method">
+		<param name="Local" value="topic_00000000000000F4.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetRowValue Method">
+		<param name="Name" value="GetRowValue Method">
+		<param name="Local" value="topic_00000000000000F5.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetSQLDataReader Method">
+		<param name="Name" value="GetSQLDataReader Method">
+		<param name="Local" value="topic_00000000000000E7.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetSchema Method">
+		<param name="Name" value="GetSchema Method">
+		<param name="Local" value="topic_00000000000000F6.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetStandardAddress Method">
+		<param name="Name" value="GetStandardAddress Method">
+		<param name="Local" value="topic_0000000000000052.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetStartOfDay Method">
+		<param name="Name" value="GetStartOfDay Method">
+		<param name="Local" value="topic_0000000000000108.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetSysParam Method">
+		<param name="Name" value="GetSysParam Method">
+		<param name="Local" value="topic_00000000000000DD.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetSysParamTable Method">
+		<param name="Name" value="GetSysParamTable Method">
+		<param name="Local" value="topic_00000000000000DE.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetTable Method">
+		<param name="Name" value="GetTable Method">
+		<param name="Local" value="topic_000000000000013E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetTableAsync Method">
+		<param name="Name" value="GetTableAsync Method">
+		<param name="Local" value="topic_0000000000000147.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetTableNoSchema Method">
+		<param name="Name" value="GetTableNoSchema Method">
+		<param name="Local" value="topic_000000000000013F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetTableNoSchemaAsync Method">
+		<param name="Name" value="GetTableNoSchemaAsync Method">
+		<param name="Local" value="topic_0000000000000148.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetTextBetween Method {Utility.clsFormatting}">
+		<param name="Name" value="GetTextBetween Method {Utility.clsFormatting}">
+		<param name="Local" value="topic_000000000000010A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetTextBetween Method {Utility.clsSQLParser}">
+		<param name="Name" value="GetTextBetween Method {Utility.clsSQLParser}">
+		<param name="Local" value="topic_000000000000004B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetUpdate Method">
+		<param name="Name" value="GetUpdate Method">
+		<param name="Local" value="topic_000000000000004A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetUser Method">
+		<param name="Name" value="GetUser Method">
+		<param name="Local" value="topic_0000000000000013.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetUserInfo Method">
+		<param name="Name" value="GetUserInfo Method">
+		<param name="Local" value="topic_0000000000000014.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetUserProperty Method">
+		<param name="Name" value="GetUserProperty Method">
+		<param name="Local" value="topic_0000000000000027.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetUserRoles Method">
+		<param name="Name" value="GetUserRoles Method">
+		<param name="Local" value="topic_0000000000000003.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetValue Method {Utility.clsDataQuery}">
+		<param name="Name" value="GetValue Method {Utility.clsDataQuery}">
+		<param name="Local" value="topic_000000000000013B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetValue Method {Utility.clsDatabase}">
+		<param name="Name" value="GetValue Method {Utility.clsDatabase}">
+		<param name="Local" value="topic_00000000000000ED.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetValueAsync Method">
+		<param name="Name" value="GetValueAsync Method">
+		<param name="Local" value="topic_0000000000000145.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetValueCmd (System.Data.Odbc.OdbcCommand) Method">
+		<param name="Name" value="GetValueCmd (System.Data.Odbc.OdbcCommand) Method">
+		<param name="Local" value="topic_00000000000000EF.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetValueCmd (System.Data.SqlClient.SqlCommand) Method">
+		<param name="Name" value="GetValueCmd (System.Data.SqlClient.SqlCommand) Method">
+		<param name="Local" value="topic_00000000000000EE.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetValueText Method">
+		<param name="Name" value="GetValueText Method">
+		<param name="Local" value="topic_00000000000000EC.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GetWebImage Method">
+		<param name="Name" value="GetWebImage Method">
+		<param name="Local" value="topic_000000000000001A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GridClear Method">
+		<param name="Name" value="GridClear Method">
+		<param name="Local" value="topic_000000000000008C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GridCopy Method">
+		<param name="Name" value="GridCopy Method">
+		<param name="Local" value="topic_0000000000000098.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GridPrint Method">
+		<param name="Name" value="GridPrint Method">
+		<param name="Local" value="topic_00000000000000C5.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GridShow Method">
+		<param name="Name" value="GridShow Method">
+		<param name="Local" value="topic_000000000000008D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="GridTable Property">
+		<param name="Name" value="GridTable Property">
+		<param name="Local" value="topic_00000000000000C7.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="HostAddressGet Method">
+		<param name="Name" value="HostAddressGet Method">
+		<param name="Local" value="topic_0000000000000012.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="HostNameGet Method">
+		<param name="Name" value="HostNameGet Method">
+		<param name="Local" value="topic_0000000000000011.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IconFromFile Method">
+		<param name="Name" value="IconFromFile Method">
+		<param name="Local" value="topic_0000000000000035.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ImageRead Method">
+		<param name="Name" value="ImageRead Method">
+		<param name="Local" value="topic_00000000000000D4.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ImageWrite Method">
+		<param name="Name" value="ImageWrite Method">
+		<param name="Local" value="topic_00000000000000D2.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ImpersonateStart Method">
+		<param name="Name" value="ImpersonateStart Method">
+		<param name="Local" value="topic_0000000000000037.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ImpersonateStop Method">
+		<param name="Name" value="ImpersonateStop Method">
+		<param name="Local" value="topic_0000000000000038.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Impersonator Class">
+		<param name="Name" value="Impersonator Class">
+		<param name="Local" value="topic_0000000000000036.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="InitializeEditingControl Method {Utility.SmartGrid.CalendarCell}">
+		<param name="Name" value="InitializeEditingControl Method {Utility.SmartGrid.CalendarCell}">
+		<param name="Local" value="topic_00000000000000A0.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="InitializeEditingControl Method {Utility.SmartGrid.NumericUpDownCell}">
+		<param name="Name" value="InitializeEditingControl Method {Utility.SmartGrid.NumericUpDownCell}">
+		<param name="Local" value="topic_00000000000000B5.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="InsertNeeded Event">
+		<param name="Name" value="InsertNeeded Event">
+		<param name="Local" value="topic_0000000000000073.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsAddressSame Method">
+		<param name="Name" value="IsAddressSame Method">
+		<param name="Local" value="topic_0000000000000113.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsConnectionValid Method">
+		<param name="Name" value="IsConnectionValid Method">
+		<param name="Local" value="topic_0000000000000137.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsEligible Method">
+		<param name="Name" value="IsEligible Method">
+		<param name="Local" value="topic_000000000000000B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsInArray Method">
+		<param name="Name" value="IsInArray Method">
+		<param name="Local" value="topic_0000000000000066.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsInArrayNumeric Method">
+		<param name="Name" value="IsInArrayNumeric Method">
+		<param name="Local" value="topic_0000000000000068.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsInString Method">
+		<param name="Name" value="IsInString Method">
+		<param name="Local" value="topic_0000000000000065.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsInStringNumeric Method">
+		<param name="Name" value="IsInStringNumeric Method">
+		<param name="Local" value="topic_0000000000000067.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsODBCConnectionValid Method">
+		<param name="Name" value="IsODBCConnectionValid Method">
+		<param name="Local" value="topic_00000000000000E2.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsPhone Method">
+		<param name="Name" value="IsPhone Method">
+		<param name="Local" value="topic_0000000000000117.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsPlaying Method">
+		<param name="Name" value="IsPlaying Method">
+		<param name="Local" value="topic_0000000000000044.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsPrinterInstalled Method">
+		<param name="Name" value="IsPrinterInstalled Method">
+		<param name="Local" value="topic_0000000000000028.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsSQLConnectionValid Method">
+		<param name="Name" value="IsSQLConnectionValid Method">
+		<param name="Local" value="topic_00000000000000E1.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsURL Method">
+		<param name="Name" value="IsURL Method">
+		<param name="Local" value="topic_0000000000000018.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsUserInGroupList Method">
+		<param name="Name" value="IsUserInGroupList Method">
+		<param name="Local" value="topic_0000000000000015.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="IsZip Method">
+		<param name="Name" value="IsZip Method">
+		<param name="Local" value="topic_0000000000000115.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="LastQueryIdentity Property">
+		<param name="Name" value="LastQueryIdentity Property">
+		<param name="Local" value="topic_000000000000014B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="LastQueryTable Property">
+		<param name="Name" value="LastQueryTable Property">
+		<param name="Local" value="topic_000000000000014C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="LastQueryTime Property">
+		<param name="Name" value="LastQueryTime Property">
+		<param name="Local" value="topic_000000000000014D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="LastQueryType Property">
+		<param name="Name" value="LastQueryType Property">
+		<param name="Local" value="topic_000000000000014E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="LastQueryValue Property">
+		<param name="Name" value="LastQueryValue Property">
+		<param name="Local" value="topic_000000000000014F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ListFill Method">
+		<param name="Name" value="ListFill Method">
+		<param name="Local" value="topic_000000000000005F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ListSearch Method">
+		<param name="Name" value="ListSearch Method">
+		<param name="Local" value="topic_0000000000000060.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="LogQueryEnd Method">
+		<param name="Name" value="LogQueryEnd Method">
+		<param name="Local" value="topic_00000000000000FC.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="LogQueryStart Method">
+		<param name="Name" value="LogQueryStart Method">
+		<param name="Local" value="topic_00000000000000FB.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MacessDocument Method">
+		<param name="Name" value="MacessDocument Method">
+		<param name="Local" value="topic_0000000000000010.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MacessFolder Method">
+		<param name="Name" value="MacessFolder Method">
+		<param name="Local" value="topic_000000000000000F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MailError Method">
+		<param name="Name" value="MailError Method">
+		<param name="Local" value="topic_0000000000000022.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MailSend Method">
+		<param name="Name" value="MailSend Method">
+		<param name="Local" value="topic_0000000000000020.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MailSendRem Method">
+		<param name="Name" value="MailSendRem Method">
+		<param name="Local" value="topic_0000000000000021.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MakeControlsEditable Method">
+		<param name="Name" value="MakeControlsEditable Method">
+		<param name="Local" value="topic_0000000000000058.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MediaPause Method">
+		<param name="Name" value="MediaPause Method">
+		<param name="Local" value="topic_0000000000000041.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MediaPlay Method">
+		<param name="Name" value="MediaPlay Method">
+		<param name="Local" value="topic_000000000000003E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MediaRecordStart Method">
+		<param name="Name" value="MediaRecordStart Method">
+		<param name="Local" value="topic_000000000000003F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MediaRecordStop Method">
+		<param name="Name" value="MediaRecordStop Method">
+		<param name="Local" value="topic_0000000000000040.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MediaResume Method">
+		<param name="Name" value="MediaResume Method">
+		<param name="Local" value="topic_0000000000000042.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MediaStop Method">
+		<param name="Name" value="MediaStop Method">
+		<param name="Local" value="topic_0000000000000043.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MemberExists Method">
+		<param name="Name" value="MemberExists Method">
+		<param name="Local" value="topic_000000000000000D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="MenuAddRecent Method">
+		<param name="Name" value="MenuAddRecent Method">
+		<param name="Local" value="topic_000000000000005E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="NumericUpDownCell Class">
+		<param name="Name" value="NumericUpDownCell Class">
+		<param name="Local" value="topic_00000000000000B3.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="NumericUpDownCell Constructor {Utility.SmartGrid.NumericUpDownCell}">
+		<param name="Name" value="NumericUpDownCell Constructor {Utility.SmartGrid.NumericUpDownCell}">
+		<param name="Local" value="topic_00000000000000B4.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="NumericUpDownColumn Class">
+		<param name="Name" value="NumericUpDownColumn Class">
+		<param name="Local" value="topic_00000000000000B0.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="NumericUpDownColumn Constructor {Utility.SmartGrid.NumericUpDownColumn}">
+		<param name="Name" value="NumericUpDownColumn Constructor {Utility.SmartGrid.NumericUpDownColumn}">
+		<param name="Local" value="topic_00000000000000B1.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="NumericUpDownEditingControl Class">
+		<param name="Name" value="NumericUpDownEditingControl Class">
+		<param name="Local" value="topic_00000000000000B9.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="NumericUpDownEditingControl Constructor {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Name" value="NumericUpDownEditingControl Constructor {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Local" value="topic_00000000000000BA.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="OpenFile Method">
+		<param name="Name" value="OpenFile Method">
+		<param name="Local" value="topic_0000000000000063.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Orientation Property">
+		<param name="Name" value="Orientation Property">
+		<param name="Local" value="topic_00000000000000C6.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="OrientationFlip Method">
+		<param name="Name" value="OrientationFlip Method">
+		<param name="Local" value="topic_000000000000008E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="PGPDecrypt Method">
+		<param name="Name" value="PGPDecrypt Method">
+		<param name="Local" value="topic_000000000000002D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="PGPEncrypt Method">
+		<param name="Name" value="PGPEncrypt Method">
+		<param name="Local" value="topic_000000000000002C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ParamSet Method">
+		<param name="Name" value="ParamSet Method">
+		<param name="Local" value="topic_0000000000000135.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ParamsClear Method">
+		<param name="Name" value="ParamsClear Method">
+		<param name="Local" value="topic_0000000000000136.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Parse Method">
+		<param name="Name" value="Parse Method">
+		<param name="Local" value="topic_0000000000000047.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="PrepareEditingControlForEdit Method {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Name" value="PrepareEditingControlForEdit Method {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Local" value="topic_00000000000000A9.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="PrepareEditingControlForEdit Method {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Name" value="PrepareEditingControlForEdit Method {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Local" value="topic_00000000000000BE.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="PrintFile Method">
+		<param name="Name" value="PrintFile Method">
+		<param name="Local" value="topic_000000000000002B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="PrintText Method">
+		<param name="Name" value="PrintText Method">
+		<param name="Local" value="topic_000000000000002A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="PromptForConnection Method">
+		<param name="Name" value="PromptForConnection Method">
+		<param name="Local" value="topic_00000000000000E3.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Quote Method">
+		<param name="Name" value="Quote Method">
+		<param name="Local" value="topic_0000000000000122.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Raise Method">
+		<param name="Name" value="Raise Method">
+		<param name="Local" value="topic_0000000000000149.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="RecordDoubleClicked Event">
+		<param name="Name" value="RecordDoubleClicked Event">
+		<param name="Local" value="topic_0000000000000079.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="RecordSelected Event">
+		<param name="Name" value="RecordSelected Event">
+		<param name="Local" value="topic_0000000000000076.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="RecordUpdate Method">
+		<param name="Name" value="RecordUpdate Method">
+		<param name="Local" value="topic_0000000000000090.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="RefreshNeeded Event">
+		<param name="Name" value="RefreshNeeded Event">
+		<param name="Local" value="topic_0000000000000075.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ReleaseObj Method">
+		<param name="Name" value="ReleaseObj Method">
+		<param name="Local" value="topic_000000000000006C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ReplaceFirst Method">
+		<param name="Name" value="ReplaceFirst Method">
+		<param name="Local" value="topic_0000000000000125.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ReportError Method">
+		<param name="Name" value="ReportError Method">
+		<param name="Local" value="topic_000000000000006B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ReportFieldLengths Method">
+		<param name="Name" value="ReportFieldLengths Method">
+		<param name="Local" value="topic_0000000000000096.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="RepositionEditingControlOnValueChange Property {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Name" value="RepositionEditingControlOnValueChange Property {Utility.SmartGrid.CalendarEditingControl}">
+		<param name="Local" value="topic_00000000000000AA.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="RepositionEditingControlOnValueChange Property {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Name" value="RepositionEditingControlOnValueChange Property {Utility.SmartGrid.NumericUpDownEditingControl}">
+		<param name="Local" value="topic_00000000000000C3.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Rollback Method">
+		<param name="Name" value="Rollback Method">
+		<param name="Local" value="topic_0000000000000101.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SaveChanges Method">
+		<param name="Name" value="SaveChanges Method">
+		<param name="Local" value="topic_0000000000000097.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Scramble Method">
+		<param name="Name" value="Scramble Method">
+		<param name="Local" value="topic_0000000000000123.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SelectFromGrid Method">
+		<param name="Name" value="SelectFromGrid Method">
+		<param name="Local" value="topic_000000000000005B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SelectFromGridMulti Method">
+		<param name="Name" value="SelectFromGridMulti Method">
+		<param name="Local" value="topic_000000000000005C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SelectFromList Method">
+		<param name="Name" value="SelectFromList Method">
+		<param name="Local" value="topic_000000000000005A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetAttribute Method">
+		<param name="Name" value="SetAttribute Method">
+		<param name="Local" value="topic_000000000000012C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetCell Method">
+		<param name="Name" value="SetCell Method">
+		<param name="Local" value="topic_0000000000000092.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetColWidth (System.Int32, System.Double) Method">
+		<param name="Name" value="SetColWidth (System.Int32, System.Double) Method">
+		<param name="Local" value="topic_0000000000000095.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetColWidth (System.String, System.Double) Method">
+		<param name="Name" value="SetColWidth (System.String, System.Double) Method">
+		<param name="Local" value="topic_0000000000000094.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetDisplayedValue (System.Int32, System.Int32, System.Object, System.Boolean) Method">
+		<param name="Name" value="SetDisplayedValue (System.Int32, System.Int32, System.Object, System.Boolean) Method">
+		<param name="Local" value="topic_000000000000009A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetDisplayedValue (System.Int32, System.String, System.Object, System.Boolean) Method">
+		<param name="Name" value="SetDisplayedValue (System.Int32, System.String, System.Object, System.Boolean) Method">
+		<param name="Local" value="topic_0000000000000099.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetEditable (System.Boolean) Method">
+		<param name="Name" value="SetEditable (System.Boolean) Method">
+		<param name="Local" value="topic_0000000000000087.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetEditable (System.String, System.Boolean) Method">
+		<param name="Name" value="SetEditable (System.String, System.Boolean) Method">
+		<param name="Local" value="topic_0000000000000086.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetFrozen Method">
+		<param name="Name" value="SetFrozen Method">
+		<param name="Local" value="topic_0000000000000088.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetHeaderText Method">
+		<param name="Name" value="SetHeaderText Method">
+		<param name="Local" value="topic_0000000000000089.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetRecord Method">
+		<param name="Name" value="SetRecord Method">
+		<param name="Local" value="topic_0000000000000093.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetStyleBoolean Method">
+		<param name="Name" value="SetStyleBoolean Method">
+		<param name="Local" value="topic_0000000000000083.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetStyleClick Method">
+		<param name="Name" value="SetStyleClick Method">
+		<param name="Local" value="topic_0000000000000084.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetStyleDate Method">
+		<param name="Name" value="SetStyleDate Method">
+		<param name="Local" value="topic_0000000000000081.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetStyleList Method">
+		<param name="Name" value="SetStyleList Method">
+		<param name="Local" value="topic_0000000000000082.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetStyleNumeric Method">
+		<param name="Name" value="SetStyleNumeric Method">
+		<param name="Local" value="topic_0000000000000080.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetStyleText Method">
+		<param name="Name" value="SetStyleText Method">
+		<param name="Local" value="topic_000000000000007F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetToolButton Method">
+		<param name="Name" value="SetToolButton Method">
+		<param name="Local" value="topic_000000000000007D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetToolButtons Method">
+		<param name="Name" value="SetToolButtons Method">
+		<param name="Local" value="topic_000000000000007E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetToolButtonsClear Method">
+		<param name="Name" value="SetToolButtonsClear Method">
+		<param name="Local" value="topic_000000000000007C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetToolDock Method">
+		<param name="Name" value="SetToolDock Method">
+		<param name="Local" value="topic_000000000000007B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetUserInfo Method">
+		<param name="Name" value="SetUserInfo Method">
+		<param name="Local" value="topic_000000000000006A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SetVisible Method">
+		<param name="Name" value="SetVisible Method">
+		<param name="Local" value="topic_0000000000000085.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ShowAbout Method">
+		<param name="Name" value="ShowAbout Method">
+		<param name="Local" value="topic_000000000000005D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ShowDirections Method">
+		<param name="Name" value="ShowDirections Method">
+		<param name="Local" value="topic_0000000000000050.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ShowInBrowser Method">
+		<param name="Name" value="ShowInBrowser Method">
+		<param name="Local" value="topic_0000000000000064.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ShowMaintenance (System.String, System.Data.DataTable, System.Boolean) Method">
+		<param name="Name" value="ShowMaintenance (System.String, System.Data.DataTable, System.Boolean) Method">
+		<param name="Local" value="topic_0000000000000062.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ShowMaintenance (System.String, System.String, System.Boolean) Method">
+		<param name="Name" value="ShowMaintenance (System.String, System.String, System.Boolean) Method">
+		<param name="Local" value="topic_0000000000000061.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ShowMap Method">
+		<param name="Name" value="ShowMap Method">
+		<param name="Local" value="topic_000000000000004F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SmartGrid Class">
+		<param name="Name" value="SmartGrid Class">
+		<param name="Local" value="topic_000000000000003A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Sort Method">
+		<param name="Name" value="Sort Method">
+		<param name="Local" value="topic_000000000000008B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="SortDataTable Method">
+		<param name="Name" value="SortDataTable Method">
+		<param name="Local" value="topic_00000000000000FA.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="StripWhiteSpace Method">
+		<param name="Name" value="StripWhiteSpace Method">
+		<param name="Local" value="topic_0000000000000119.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="TCPSend Method">
+		<param name="Name" value="TCPSend Method">
+		<param name="Local" value="topic_0000000000000031.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="TCPSendRem Method">
+		<param name="Name" value="TCPSendRem Method">
+		<param name="Local" value="topic_0000000000000032.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="TextImport Method">
+		<param name="Name" value="TextImport Method">
+		<param name="Local" value="topic_00000000000000D7.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="TextImportDelimited Method">
+		<param name="Name" value="TextImportDelimited Method">
+		<param name="Local" value="topic_00000000000000D8.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToAddress Method">
+		<param name="Name" value="ToAddress Method">
+		<param name="Local" value="topic_000000000000011B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToBoolean Method">
+		<param name="Name" value="ToBoolean Method">
+		<param name="Local" value="topic_000000000000010B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToCurrency Method">
+		<param name="Name" value="ToCurrency Method">
+		<param name="Local" value="topic_0000000000000127.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToDecimalPlaces Method">
+		<param name="Name" value="ToDecimalPlaces Method">
+		<param name="Local" value="topic_000000000000011A.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToFullName Method">
+		<param name="Name" value="ToFullName Method">
+		<param name="Local" value="topic_000000000000011C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToGender Method">
+		<param name="Name" value="ToGender Method">
+		<param name="Local" value="topic_0000000000000120.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToMhsDate Method">
+		<param name="Name" value="ToMhsDate Method">
+		<param name="Local" value="topic_000000000000011D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToNumericCharsOnly Method">
+		<param name="Name" value="ToNumericCharsOnly Method">
+		<param name="Local" value="topic_0000000000000118.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToPercent Method">
+		<param name="Name" value="ToPercent Method">
+		<param name="Local" value="topic_0000000000000128.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToPhone Method">
+		<param name="Name" value="ToPhone Method">
+		<param name="Local" value="topic_0000000000000116.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToSSN Method">
+		<param name="Name" value="ToSSN Method">
+		<param name="Local" value="topic_0000000000000111.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToStdTime Method">
+		<param name="Name" value="ToStdTime Method">
+		<param name="Local" value="topic_000000000000011F.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToStr Method">
+		<param name="Name" value="ToStr Method">
+		<param name="Local" value="topic_000000000000010C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToTime Method">
+		<param name="Name" value="ToTime Method">
+		<param name="Local" value="topic_000000000000011E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToTitle Method">
+		<param name="Name" value="ToTitle Method">
+		<param name="Local" value="topic_0000000000000126.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToURL Method">
+		<param name="Name" value="ToURL Method">
+		<param name="Local" value="topic_000000000000010D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToUncPath Method">
+		<param name="Name" value="ToUncPath Method">
+		<param name="Local" value="topic_0000000000000017.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToXML Method">
+		<param name="Name" value="ToXML Method">
+		<param name="Local" value="topic_000000000000010E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToZip Method">
+		<param name="Name" value="ToZip Method">
+		<param name="Local" value="topic_0000000000000114.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ToolButtonClicked Event">
+		<param name="Name" value="ToolButtonClicked Event">
+		<param name="Local" value="topic_0000000000000078.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="TransactionBegin Method">
+		<param name="Name" value="TransactionBegin Method">
+		<param name="Local" value="topic_0000000000000140.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="TransactionCommit Method">
+		<param name="Name" value="TransactionCommit Method">
+		<param name="Local" value="topic_0000000000000142.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="TransactionRollback Method">
+		<param name="Name" value="TransactionRollback Method">
+		<param name="Local" value="topic_0000000000000141.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="UpdateNeeded Event">
+		<param name="Name" value="UpdateNeeded Event">
+		<param name="Local" value="topic_0000000000000072.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Utility Namespace">
+		<param name="Name" value="Utility Namespace">
+		<param name="Local" value="topic_0000000000000151.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="Utility Reference">
+		<param name="Name" value="Utility Reference">
+		<param name="Local" value="topic_0000000000000150.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ValueType Property {Utility.SmartGrid.CalendarCell}">
+		<param name="Name" value="ValueType Property {Utility.SmartGrid.CalendarCell}">
+		<param name="Local" value="topic_00000000000000A2.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ValueType Property {Utility.SmartGrid.NumericUpDownCell}">
+		<param name="Name" value="ValueType Property {Utility.SmartGrid.NumericUpDownCell}">
+		<param name="Local" value="topic_00000000000000B6.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="XmlFromDatatable Method">
+		<param name="Name" value="XmlFromDatatable Method">
+		<param name="Local" value="topic_00000000000000DB.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="XmlToDatatable Method">
+		<param name="Name" value="XmlToDatatable Method">
+		<param name="Local" value="topic_00000000000000DC.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="ZipFromAddr Method">
+		<param name="Name" value="ZipFromAddr Method">
+		<param name="Local" value="topic_0000000000000121.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsBusiness Class">
+		<param name="Name" value="clsBusiness Class">
+		<param name="Local" value="topic_0000000000000002.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsDataQuery Class">
+		<param name="Name" value="clsDataQuery Class">
+		<param name="Local" value="topic_0000000000000133.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsDataQuery Constructor {Utility.clsDataQuery}">
+		<param name="Name" value="clsDataQuery Constructor {Utility.clsDataQuery}">
+		<param name="Local" value="topic_0000000000000134.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsDatabase Class">
+		<param name="Name" value="clsDatabase Class">
+		<param name="Local" value="topic_00000000000000D1.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsEligibility Class">
+		<param name="Name" value="clsEligibility Class">
+		<param name="Local" value="topic_000000000000006D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsEligibility Constructor {Utility.clsEligibility}">
+		<param name="Name" value="clsEligibility Constructor {Utility.clsEligibility}">
+		<param name="Local" value="topic_000000000000006E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsFolderWatcher Class">
+		<param name="Name" value="clsFolderWatcher Class">
+		<param name="Local" value="topic_00000000000000CB.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsFolderWatcher Constructor {Utility.clsFolderWatcher}">
+		<param name="Name" value="clsFolderWatcher Constructor {Utility.clsFolderWatcher}">
+		<param name="Local" value="topic_00000000000000CD.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsFormatting Class">
+		<param name="Name" value="clsFormatting Class">
+		<param name="Local" value="topic_0000000000000103.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsMapping Class">
+		<param name="Name" value="clsMapping Class">
+		<param name="Local" value="topic_000000000000004D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsMedia Class">
+		<param name="Name" value="clsMedia Class">
+		<param name="Local" value="topic_000000000000003D.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsNetworking Class">
+		<param name="Name" value="clsNetworking Class">
+		<param name="Local" value="topic_000000000000000E.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsSQLParser Class">
+		<param name="Name" value="clsSQLParser Class">
+		<param name="Local" value="topic_0000000000000045.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsSQLParser Constructor {Utility.clsSQLParser}">
+		<param name="Name" value="clsSQLParser Constructor {Utility.clsSQLParser}">
+		<param name="Local" value="topic_0000000000000046.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="clsUserInterface Class">
+		<param name="Name" value="clsUserInterface Class">
+		<param name="Local" value="topic_0000000000000056.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="frmAbout Class">
+		<param name="Name" value="frmAbout Class">
+		<param name="Local" value="topic_0000000000000055.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="frmChooseRole Class">
+		<param name="Name" value="frmChooseRole Class">
+		<param name="Local" value="topic_000000000000004C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="frmEditRow Class">
+		<param name="Name" value="frmEditRow Class">
+		<param name="Local" value="topic_0000000000000001.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="frmListSelector Class">
+		<param name="Name" value="frmListSelector Class">
+		<param name="Local" value="topic_000000000000003C.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="frmSmartFilter Class">
+		<param name="Name" value="frmSmartFilter Class">
+		<param name="Local" value="topic_000000000000003B.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="frmSmartFilter Constructor {Utility.frmSmartFilter}">
+		<param name="Name" value="frmSmartFilter Constructor {Utility.frmSmartFilter}">
+		<param name="Local" value="topic_00000000000000C8.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="frmSmartSelector Class">
+		<param name="Name" value="frmSmartSelector Class">
+		<param name="Local" value="topic_00000000000000CA.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="frmUsers Class">
+		<param name="Name" value="frmUsers Class">
+		<param name="Local" value="topic_0000000000000000.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="q Method">
+		<param name="Name" value="q Method">
+		<param name="Local" value="topic_0000000000000104.html">
+		</OBJECT>
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="sqlComplete Property">
+		<param name="Name" value="sqlComplete Property">
+		<param name="Local" value="topic_000000000000014A.html">
+		</OBJECT>
+
+
+</UL>
+
+</HTML>
