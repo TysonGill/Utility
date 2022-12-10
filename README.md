@@ -4,17 +4,17 @@ So after perhaps 200+ casual projects and 100+ major commercial projects, this h
 
 As just one example, the DataQuery object makes database programming trivially simple with extremely little code:
 
-Dim dq as clsDataQuery = New clsDataQuery(ConnectionString) ' do this once at the start of your program
+Dim dq as clsDataQuery = New clsDataQuery(ConnectionString) ' do this once at the start of your program to initialize
 
 Then, whenever you need...
 
-Dim dt as DataTable = dq.GetTable(sql)
+Dim dt as DataTable = dq.GetTable(sql) ' Return a datatable
 
-val = dq.GetValue(sql)
+obj = dq.GetValue(sql) ' Return a single field or aggregate value
 
 int = dq.GetIdentity(sql) ' Insert a new record and return the identity
 
-dq.Execute(sql)
+dq.Execute(sql) ' Execute an action query
 
 etc
 
