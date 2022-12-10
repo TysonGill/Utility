@@ -18,7 +18,7 @@ dq.Execute(sql)
 
 etc
 
-There are similar libraries for database and datatable manipulation, file system management, formatting, mapping, multimedia, networking, SQL parsing, and more. All the other projects in my repository rely upon it heavily. I rarely touch it, but that's the good thing. I rarely need to.
+There are similar libraries for database and datatable manipulation, file system management, formatting, mapping, multimedia, networking, SQL parsing, and more. Most of the other projects in my repository rely upon it heavily. I rarely touch it, but that's the good thing. I rarely need to.
 
 
 ![image](https://user-images.githubusercontent.com/120231132/206852471-81340ab1-4e3c-4903-9d7d-391187bb58ae.png)
